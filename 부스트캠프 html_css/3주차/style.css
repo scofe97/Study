@@ -1,0 +1,24 @@
+
+.html {
+    color: purple;
+}
+
+.css {
+    text-decoration: underline;
+}
+
+#bar {
+    background-color: yellow;
+}
+
+.html.css {
+    border: 1px solid;
+}
+
+p[class="foo"] { color: silver; }
+p[id="title"] { text-decoration: underline; }
+
+p[class~="color"] { font-style: italic; } /* 1, 2번째 요소 */
+p[class^="color"] { font-style: italic; } /* 1, 3번째 요소 */
+p[class$="color"] { font-style: italic; } /* 2번째 요소 */
+p[class*="color"] { font-style: italic; } /* 1, 2, 3번째 요소 */

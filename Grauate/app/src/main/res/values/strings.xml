@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Jatlin</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_home">홈</string>
+    <string name="title_post">동네생활</string>
+    <string name="title_chat">채팅</string>
+    <string name="title_profile">프로필</string>
+    <string name="empty_product">상품 리스트가 존재하지 않습니다.</string>
+    <string name="empty_chat_room">채팅 리스트가 존재하지 않습니다.</string>
+    <string name="require_login">로그인을 하고 시도해주세요.</string>
+    <string name="chat_send_button">전송</string>
+
+</resources>

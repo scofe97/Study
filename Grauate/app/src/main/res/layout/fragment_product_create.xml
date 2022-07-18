@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/main_background"
+    tools:context=".presentation.product.create.ProductCreateFragment">
+
+
+
+    <View
+        android:id="@+id/toolbarUnderLineView"
+        android:layout_width="0dp"
+        android:layout_height="1dp"
+        android:background="@color/black"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <EditText
+        android:id="@+id/productNameEditText"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginEnd="16dp"
+        android:fontFamily="@font/notosans_regular"
+        android:textColor="@color/white_100"
+        android:textColorHint="@color/white_40"
+        android:textSize="14sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/toolbarUnderLineView"
+        android:hint="상품 제목" />
+
+    <EditText
+        android:id="@+id/productPricerEditText"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginEnd="16dp"
+        android:fontFamily="@font/notosans_regular"
+        android:inputType="numberDecimal"
+        android:textColor="@color/white_100"
+        android:textColorHint="@color/white_40"
+        android:textSize="14sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/productNameEditText"
+        android:hint="가격" />
+
+    <EditText
+        android:id="@+id/productIntroductionEditText"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginEnd="16dp"
+        android:fontFamily="@font/notosans_regular"
+        android:textSize="14sp"
+        android:scrollHorizontally="false"
+        android:textColor="@color/white_100"
+        android:textColorHint="@color/white_40"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/productPricerEditText"
+        android:hint="상품 설명" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/productImageAddButton"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:background="@drawable/background_corner_12"
+        android:elevation="8dp"
+        android:textSize="14sp"
+        android:fontFamily="@font/notosans_regular"
+        android:foreground="?selectableItemBackground"
+        android:paddingHorizontal="16dp"
+        android:text="이미지 등록하기"
+        android:layout_marginTop="16dp"
+        android:textColor="@color/white_100"
+        app:layout_constraintEnd_toEndOf="@id/productPhotoImageView"
+        app:layout_constraintStart_toStartOf="@id/productPhotoImageView"
+        app:layout_constraintTop_toBottomOf="@id/productPhotoImageView" />
+
+    <ImageView
+        android:scaleType="centerCrop"
+        android:id="@+id/productPhotoImageView"
+        android:layout_width="250dp"
+        android:layout_height="250dp"
+        android:layout_marginTop="24dp"
+        android:background="@drawable/background_corner_12"
+        app:layout_constraintDimensionRatio="w,1:1"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/productIntroductionEditText" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/submitButton"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginEnd="16dp"
+        android:layout_marginBottom="16dp"
+        android:background="@drawable/background_corner_highlight_12"
+        android:backgroundTint="@color/highlight"
+        android:elevation="8dp"
+        android:fontFamily="@font/notosans_regular"
+        android:foreground="?selectableItemBackground"
+        android:paddingHorizontal="16dp"
+        android:text="등록하기"
+        android:textColor="@color/white_100"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <ProgressBar
+        android:id="@+id/progressBar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:visibility="gone"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

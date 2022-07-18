@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "778841100594",
+    "project_id": "aop-part5-chapter05-e83c6",
+    "storage_bucket": "aop-part5-chapter05-e83c6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:778841100594:android:67f530741cc5618d18c72b",
+        "android_client_info": {
+          "package_name": "com.example.chapter5_subway_arrived"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "778841100594-5p5i0sr96j2v2ogcl86q10741bp6ussr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6qMFKjzCT2ocv01xC87qv_O16m6TiZxU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "778841100594-5p5i0sr96j2v2ogcl86q10741bp6ussr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
