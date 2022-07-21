@@ -4,7 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="efe06709-25b7-4f33-8443-6652a96d3766" name="Changes" comment="Changes" />
+    <list default="true" id="efe06709-25b7-4f33-8443-6652a96d3766" name="Changes" comment="Changes">
+      <change afterPath="$PROJECT_DIR$/src/알고리즘/문제코드/백준/단계611_BFS/Problem_G2_16946.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/알고리즘/문제코드/백준/단계611_BFS/Problem_G2_16946_solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/알고리즘/문제코드/백준/단계611_BFS/Problem_G4_12886.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/알고리즘/문제코드/백준/단계611_BFS/Problem_G4_2206.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/알고리즘/문제코드/백준/단계611_BFS/Problem_G5_14502.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/알고리즘/문제코드/백준/단계710_그리디/Problem_s1_1080.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/알고리즘/문제코드/백준/단계710_그리디/Problem_s1_1931.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/알고리즘/문제코드/백준/단계710_그리디/Problem_s4_11047.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/알고리즘/문제코드/백준/단계710_그리디/Problem_s4_11399.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/자바공부/모던자바/Chapter1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,7 +51,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;extract.method.default.visibility&quot;: &quot;private&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/SSAFY/daily/java_hw_01_2&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/study/Java_Algorithm/src/알고리즘/문제코드/백준/단계611_BFS&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -51,17 +63,20 @@
   }
 }</component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\study\Java_Algorithm\src\알고리즘\문제코드\백준\단계611_BFS" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="자바공부.정렬" />
+      <recent name="알고리즘.문제코드.백준.단계611_BFS" />
       <recent name="알고리즘.문제코드.백준" />
       <recent name="" />
       <recent name="알고리즘_SWEA.문제코드.사전학습" />
-      <recent name="알고리즘_SWEA.문제코드.개인SWEA" />
-      <recent name="알고리즘_SWEA.이론.자료구조" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Problem_G4_9019">
-    <configuration name="Problem_G4_9019" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="알고리즘.문제코드.백준.단계611_BFS.Problem_G4_9019" />
+  <component name="RunManager" selected="Application.Problem_s1_1080">
+    <configuration name="Problem_G2_16946" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="알고리즘.문제코드.백준.단계611_BFS.Problem_G2_16946" />
       <module name="Java_Algorithm" />
       <extension name="coverage">
         <pattern>
@@ -73,12 +88,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Problem_G5_16928" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="알고리즘.문제코드.백준.단계611_BFS.Problem_G5_16928" />
+    <configuration name="Problem_s1_1080" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="알고리즘.문제코드.백준.단계710_그리디.Problem_s1_1080" />
       <module name="Java_Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="알고리즘.문제코드.백준.단계611_BFS.*" />
+          <option name="PATTERN" value="알고리즘.문제코드.백준.단계710_그리디.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,12 +101,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Problem_S1_16948" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="알고리즘.문제코드.백준.단계611_BFS.Problem_S1_16948" />
+    <configuration name="Problem_s1_1931" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="알고리즘.문제코드.백준.단계710_그리디.Problem_s1_1931" />
       <module name="Java_Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="알고리즘.문제코드.백준.단계611_BFS.*" />
+          <option name="PATTERN" value="알고리즘.문제코드.백준.단계710_그리디.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,12 +114,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="알고리즘.이론.객체지향.EX_OOP_inheritance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="알고리즘.이론.객체지향.EX_OOP_inheritance" />
+    <configuration name="Problem_s4_11047" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="알고리즘.문제코드.백준.단계710_그리디.Problem_s4_11047" />
       <module name="Java_Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="자바공부.이론.객체지향.*" />
+          <option name="PATTERN" value="알고리즘.문제코드.백준.단계710_그리디.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,12 +127,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="자바공부.이론.객체지향.다형성.EX_Polymorphism1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="자바공부.이론.객체지향.다형성.EX_Polymorphism1" />
+    <configuration name="Problem_s4_11399" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="알고리즘.문제코드.백준.단계710_그리디.Problem_s4_11399" />
       <module name="Java_Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="자바공부.이론.객체지향.다형성.*" />
+          <option name="PATTERN" value="알고리즘.문제코드.백준.단계710_그리디.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,11 +142,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Problem_G4_9019" />
-        <item itemvalue="Application.Problem_S1_16948" />
-        <item itemvalue="Application.Problem_G5_16928" />
-        <item itemvalue="Application.자바공부.이론.객체지향.다형성.EX_Polymorphism1" />
-        <item itemvalue="Application.알고리즘.이론.객체지향.EX_OOP_inheritance" />
+        <item itemvalue="Application.Problem_s1_1080" />
+        <item itemvalue="Application.Problem_s4_11399" />
+        <item itemvalue="Application.Problem_s1_1931" />
+        <item itemvalue="Application.Problem_s4_11047" />
+        <item itemvalue="Application.Problem_G2_16946" />
       </list>
     </recent_temporary>
   </component>
@@ -173,6 +188,10 @@
       <workItem from="1658106926840" duration="4618000" />
       <workItem from="1658140214392" duration="275000" />
       <workItem from="1658142021525" duration="11890000" />
+      <workItem from="1658158927885" duration="6000" />
+      <workItem from="1658232089539" duration="4855000" />
+      <workItem from="1658320654443" duration="9375000" />
+      <workItem from="1658403330618" duration="8621000" />
     </task>
     <servers />
   </component>
@@ -332,6 +351,31 @@
           <url>file://$PROJECT_DIR$/src/알고리즘/문제코드/백준/단계541_비트마스크/Problem_G2_12100.java</url>
           <line>149</line>
           <option name="timeStamp" value="86" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/알고리즘/문제코드/백준/단계611_BFS/Problem_G2_16946.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="96" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/알고리즘/문제코드/백준/단계611_BFS/Problem_G2_16946.java</url>
+          <line>80</line>
+          <option name="timeStamp" value="97" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/알고리즘/문제코드/백준/단계710_그리디/Problem_s1_1931.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="98" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/알고리즘/문제코드/백준/단계710_그리디/Problem_s1_1080.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="99" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/알고리즘/문제코드/백준/단계710_그리디/Problem_s1_1080.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="100" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
