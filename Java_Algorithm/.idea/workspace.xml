@@ -5,16 +5,30 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="efe06709-25b7-4f33-8443-6652a96d3766" name="Changes" comment="Changes">
-      <change afterPath="$PROJECT_DIR$/src/알고리즘/문제코드/백준/단계611_BFS/Problem_G2_16946.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/알고리즘/문제코드/백준/단계611_BFS/Problem_G2_16946_solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/알고리즘/문제코드/백준/단계611_BFS/Problem_G4_12886.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/알고리즘/문제코드/백준/단계611_BFS/Problem_G4_2206.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/알고리즘/문제코드/백준/단계611_BFS/Problem_G5_14502.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/알고리즘/문제코드/백준/단계710_그리디/Problem_s1_1080.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/알고리즘/문제코드/백준/단계710_그리디/Problem_s1_1931.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/알고리즘/문제코드/백준/단계710_그리디/Problem_s4_11047.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/알고리즘/문제코드/백준/단계710_그리디/Problem_s4_11399.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/자바공부/모던자바/Chapter1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/알고리즘/문제코드/백준/단계611_BFS/Problem_G1_16933.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/알고리즘/문제코드/백준/단계611_BFS/Problem_G3_14442.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/알고리즘/문제코드/백준/단계710_그리디/Problem_G1_2138.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/알고리즘/문제코드/백준/단계710_그리디/Problem_G2_1202.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/알고리즘/문제코드/백준/단계710_그리디/Problem_G2_1285.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/알고리즘/문제코드/백준/단계710_그리디/Problem_G2_1285_soultion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/알고리즘/문제코드/백준/단계711_그리디_연습/Problem_S4_10610.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/알고리즘/문제코드/백준/싸피_스터디/연습1/Problem_B2_5585.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/알고리즘/문제코드/백준/싸피_스터디/연습1/Problem_B3_2441.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/알고리즘/문제코드/백준/싸피_스터디/연습1/Problem_B3_2442.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/알고리즘/문제코드/백준/싸피_스터디/연습1/Problem_B3_2443.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/알고리즘/문제코드/백준/싸피_스터디/연습1/Problem_B3_2444.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/알고리즘/문제코드/백준/싸피_스터디/연습1/Problem_B3_2445.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/알고리즘/문제코드/백준/싸피_스터디/연습1/Problem_B3_2446.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/알고리즘/문제코드/백준/싸피_스터디/연습1/Problem_B4_2439.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/알고리즘/문제코드/백준/싸피_스터디/연습1/Problem_B4_2440.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/알고리즘/문제코드/백준/싸피_스터디/연습1/Problem_B5_2438.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/알고리즘/문제코드/백준/싸피_스터디/연습1/Problem_G5_2447.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/알고리즘/문제코드/백준/싸피_스터디/연습1/Problem_G5_2448.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/알고리즘/문제코드/백준/싸피_스터디/연습1/Problem_S2_2615.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/알고리즘/문제코드/백준/싸피_스터디/연습1/Problem_S2_2615_solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/알고리즘/문제코드/백준/싸피_스터디/연습2/Problem_G3_16236.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/알고리즘/문제코드/백준/싸피_스터디/연습2/Problem_G3_16236_solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/자바공부/모던자바/Chapter2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,7 +65,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;extract.method.default.visibility&quot;: &quot;private&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/study/Java_Algorithm/src/알고리즘/문제코드/백준/단계611_BFS&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/SSAFY/workspace/Work_java&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -64,19 +78,20 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\study\Java_Algorithm\src\자바공부\모던자바" />
       <recent name="D:\study\Java_Algorithm\src\알고리즘\문제코드\백준\단계611_BFS" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="자바공부.정렬" />
+      <recent name="알고리즘.문제코드.백준.싸피_스터디.연습2" />
+      <recent name="알고리즘.문제코드.백준.단계710_그리디" />
       <recent name="알고리즘.문제코드.백준.단계611_BFS" />
-      <recent name="알고리즘.문제코드.백준" />
-      <recent name="" />
-      <recent name="알고리즘_SWEA.문제코드.사전학습" />
+      <recent name="알고리즘.문제코드.백준.싸피_스터디.연습1" />
+      <recent name="자바공부.정렬" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Problem_s1_1080">
-    <configuration name="Problem_G2_16946" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="알고리즘.문제코드.백준.단계611_BFS.Problem_G2_16946" />
+  <component name="RunManager" selected="Application.Problem_G3_16236">
+    <configuration name="Problem_G1_16933" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="알고리즘.문제코드.백준.단계611_BFS.Problem_G1_16933" />
       <module name="Java_Algorithm" />
       <extension name="coverage">
         <pattern>
@@ -88,8 +103,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Problem_s1_1080" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="알고리즘.문제코드.백준.단계710_그리디.Problem_s1_1080" />
+    <configuration name="Problem_G2_1202" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="알고리즘.문제코드.백준.단계710_그리디.Problem_G2_1202" />
       <module name="Java_Algorithm" />
       <extension name="coverage">
         <pattern>
@@ -101,8 +116,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Problem_s1_1931" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="알고리즘.문제코드.백준.단계710_그리디.Problem_s1_1931" />
+    <configuration name="Problem_G2_1285" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="알고리즘.문제코드.백준.단계710_그리디.Problem_G2_1285" />
       <module name="Java_Algorithm" />
       <extension name="coverage">
         <pattern>
@@ -114,12 +129,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Problem_s4_11047" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="알고리즘.문제코드.백준.단계710_그리디.Problem_s4_11047" />
+    <configuration name="Problem_G3_16236" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="알고리즘.문제코드.백준.싸피_스터디.연습2.Problem_G3_16236" />
       <module name="Java_Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="알고리즘.문제코드.백준.단계710_그리디.*" />
+          <option name="PATTERN" value="알고리즘.문제코드.백준.싸피_스터디.연습2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,12 +142,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Problem_s4_11399" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="알고리즘.문제코드.백준.단계710_그리디.Problem_s4_11399" />
+    <configuration name="Problem_S4_10610" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="알고리즘.문제코드.백준.단계711_그리디_연습.Problem_S4_10610" />
       <module name="Java_Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="알고리즘.문제코드.백준.단계710_그리디.*" />
+          <option name="PATTERN" value="알고리즘.문제코드.백준.단계711_그리디_연습.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -142,11 +157,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Problem_s1_1080" />
-        <item itemvalue="Application.Problem_s4_11399" />
-        <item itemvalue="Application.Problem_s1_1931" />
-        <item itemvalue="Application.Problem_s4_11047" />
-        <item itemvalue="Application.Problem_G2_16946" />
+        <item itemvalue="Application.Problem_G3_16236" />
+        <item itemvalue="Application.Problem_G2_1202" />
+        <item itemvalue="Application.Problem_S4_10610" />
+        <item itemvalue="Application.Problem_G2_1285" />
+        <item itemvalue="Application.Problem_G1_16933" />
       </list>
     </recent_temporary>
   </component>
@@ -191,7 +206,13 @@
       <workItem from="1658158927885" duration="6000" />
       <workItem from="1658232089539" duration="4855000" />
       <workItem from="1658320654443" duration="9375000" />
-      <workItem from="1658403330618" duration="8621000" />
+      <workItem from="1658403330618" duration="9218000" />
+      <workItem from="1658495427592" duration="21543000" />
+      <workItem from="1658650833518" duration="12627000" />
+      <workItem from="1658666463101" duration="804000" />
+      <workItem from="1658719876478" duration="7893000" />
+      <workItem from="1658752345955" duration="2380000" />
+      <workItem from="1658836791649" duration="9369000" />
     </task>
     <servers />
   </component>
@@ -377,6 +398,61 @@
           <line>44</line>
           <option name="timeStamp" value="100" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/알고리즘/문제코드/백준/단계710_그리디/Problem_G1_2138.java</url>
+          <line>69</line>
+          <option name="timeStamp" value="110" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/알고리즘/문제코드/백준/단계710_그리디/Problem_G1_2138.java</url>
+          <line>63</line>
+          <option name="timeStamp" value="111" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/알고리즘/문제코드/백준/단계710_그리디/Problem_G1_2138.java</url>
+          <line>48</line>
+          <option name="timeStamp" value="113" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/알고리즘/문제코드/백준/단계710_그리디/Problem_G1_2138.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="114" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/알고리즘/문제코드/백준/단계710_그리디/Problem_G1_2138.java</url>
+          <line>75</line>
+          <option name="timeStamp" value="115" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/알고리즘/문제코드/백준/싸피_스터디/연습1/Problem_B2_5585.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="116" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/알고리즘/문제코드/백준/싸피_스터디/연습1/Problem_G5_2447.java</url>
+          <line>50</line>
+          <option name="timeStamp" value="118" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/알고리즘/문제코드/백준/단계611_BFS/Problem_G3_14442.java</url>
+          <line>68</line>
+          <option name="timeStamp" value="119" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/알고리즘/문제코드/백준/단계611_BFS/Problem_G3_14442.java</url>
+          <line>74</line>
+          <option name="timeStamp" value="120" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/알고리즘/문제코드/백준/단계710_그리디/Problem_G2_1285.java</url>
+          <line>94</line>
+          <option name="timeStamp" value="132" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/알고리즘/문제코드/백준/단계710_그리디/Problem_G2_1285.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="133" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
     <watches-manager>
@@ -384,6 +460,7 @@
         <watch expression="rec[i][j]" language="JAVA" />
         <watch expression="((java.util.LinkedList)queue).get(92)" custom="java.util.LinkedList" />
         <watch expression="((java.util.LinkedList)queue).get(1)" custom="java.util.LinkedList" />
+        <watch expression="queue" />
       </configuration>
     </watches-manager>
   </component>
