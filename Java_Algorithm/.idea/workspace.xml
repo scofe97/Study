@@ -5,30 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="efe06709-25b7-4f33-8443-6652a96d3766" name="Changes" comment="Changes">
-      <change afterPath="$PROJECT_DIR$/src/알고리즘/문제코드/백준/단계611_BFS/Problem_G1_16933.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/알고리즘/문제코드/백준/단계611_BFS/Problem_G3_14442.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/알고리즘/문제코드/백준/단계710_그리디/Problem_G1_2138.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/알고리즘/문제코드/백준/단계710_그리디/Problem_G2_1202.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/알고리즘/문제코드/백준/단계710_그리디/Problem_G2_1285.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/알고리즘/문제코드/백준/단계710_그리디/Problem_G2_1285_soultion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/알고리즘/문제코드/백준/단계711_그리디_연습/Problem_S4_10610.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/알고리즘/문제코드/백준/싸피_스터디/연습1/Problem_B2_5585.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/알고리즘/문제코드/백준/싸피_스터디/연습1/Problem_B3_2441.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/알고리즘/문제코드/백준/싸피_스터디/연습1/Problem_B3_2442.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/알고리즘/문제코드/백준/싸피_스터디/연습1/Problem_B3_2443.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/알고리즘/문제코드/백준/싸피_스터디/연습1/Problem_B3_2444.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/알고리즘/문제코드/백준/싸피_스터디/연습1/Problem_B3_2445.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/알고리즘/문제코드/백준/싸피_스터디/연습1/Problem_B3_2446.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/알고리즘/문제코드/백준/싸피_스터디/연습1/Problem_B4_2439.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/알고리즘/문제코드/백준/싸피_스터디/연습1/Problem_B4_2440.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/알고리즘/문제코드/백준/싸피_스터디/연습1/Problem_B5_2438.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/알고리즘/문제코드/백준/싸피_스터디/연습1/Problem_G5_2447.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/알고리즘/문제코드/백준/싸피_스터디/연습1/Problem_G5_2448.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/알고리즘/문제코드/백준/싸피_스터디/연습1/Problem_S2_2615.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/알고리즘/문제코드/백준/싸피_스터디/연습1/Problem_S2_2615_solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/알고리즘/문제코드/백준/싸피_스터디/연습2/Problem_G3_16236.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/알고리즘/문제코드/백준/싸피_스터디/연습2/Problem_G3_16236_solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/자바공부/모던자바/Chapter2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/알고리즘/문제코드/백준/단계710_그리디/Problem_G3_2109.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/알고리즘/문제코드/백준/싸피_스터디/연습2/Problem_G5_2258.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -89,20 +67,7 @@
       <recent name="자바공부.정렬" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Problem_G3_16236">
-    <configuration name="Problem_G1_16933" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="알고리즘.문제코드.백준.단계611_BFS.Problem_G1_16933" />
-      <module name="Java_Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="알고리즘.문제코드.백준.단계611_BFS.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Problem_G3_2109">
     <configuration name="Problem_G2_1202" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="알고리즘.문제코드.백준.단계710_그리디.Problem_G2_1202" />
       <module name="Java_Algorithm" />
@@ -116,8 +81,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Problem_G2_1285" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="알고리즘.문제코드.백준.단계710_그리디.Problem_G2_1285" />
+    <configuration name="Problem_G3_2109" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="알고리즘.문제코드.백준.단계710_그리디.Problem_G3_2109" />
       <module name="Java_Algorithm" />
       <extension name="coverage">
         <pattern>
@@ -129,8 +94,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Problem_G3_16236" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="알고리즘.문제코드.백준.싸피_스터디.연습2.Problem_G3_16236" />
+    <configuration name="Problem_G5_2258" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="알고리즘.문제코드.백준.싸피_스터디.연습2.Problem_G5_2258" />
       <module name="Java_Algorithm" />
       <extension name="coverage">
         <pattern>
@@ -155,13 +120,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="알고리즘.문제코드.백준.싸피_스터디.연습2.Problem_G3_16236" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="알고리즘.문제코드.백준.싸피_스터디.연습2.Problem_G3_16236" />
+      <module name="Java_Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="알고리즘.문제코드.백준.싸피_스터디.연습2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Problem_G3_16236" />
+        <item itemvalue="Application.Problem_G3_2109" />
+        <item itemvalue="Application.Problem_G5_2258" />
+        <item itemvalue="Application.알고리즘.문제코드.백준.싸피_스터디.연습2.Problem_G3_16236" />
         <item itemvalue="Application.Problem_G2_1202" />
         <item itemvalue="Application.Problem_S4_10610" />
-        <item itemvalue="Application.Problem_G2_1285" />
-        <item itemvalue="Application.Problem_G1_16933" />
       </list>
     </recent_temporary>
   </component>
@@ -213,6 +191,8 @@
       <workItem from="1658719876478" duration="7893000" />
       <workItem from="1658752345955" duration="2380000" />
       <workItem from="1658836791649" duration="9369000" />
+      <workItem from="1658927929882" duration="3797000" />
+      <workItem from="1659014514317" duration="4451000" />
     </task>
     <servers />
   </component>
