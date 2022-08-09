@@ -77,30 +77,6 @@ public class Chapter2 {
 	}
 }
 
-class Apple {
-	Color color;
-	int weight;
-
-	public Apple(Color color, int weight) {
-		this.color = color;
-		this.weight = weight;
-	}
-
-	Color getColor() {
-		return this.color;
-	}
-
-	public int getWeight() {
-		return weight;
-	}
-	
-	@Override
-	public String toString() {
-		// TODO Auto-generated method stub
-		return String.valueOf(color) + " : " + weight;
-	}
-}
-
 interface ApplePredicate{
 	boolean test(Apple apple);
 }
