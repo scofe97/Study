@@ -5,64 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="efe06709-25b7-4f33-8443-6652a96d3766" name="Changes" comment="Changes">
-      <change afterPath="$PROJECT_DIR$/src/알고리즘/문제코드/SSAFY/live/Problem_hanoi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/알고리즘/문제코드/SSAFY/live/Problem_recursive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/알고리즘/문제코드/SSAFY/live/Problem_부분집합.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/알고리즘/문제코드/SSAFY/live/Problem_순열.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/알고리즘/문제코드/SSAFY/수업문제/Problem_B1_1259.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/알고리즘/문제코드/SSAFY/수업문제/Problem_D3_1225.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/알고리즘/문제코드/SSAFY/수업문제/Problem_D3_1228.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/알고리즘/문제코드/SSAFY/수업문제/Problem_D3_1289.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/알고리즘/문제코드/SSAFY/수업문제/Problem_D3_9229.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/알고리즘/문제코드/SSAFY/수업문제/Problem_D4_1218.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/알고리즘/문제코드/SSAFY/수업문제/Problem_S3_1244.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/알고리즘/문제코드/SSAFY/수업문제/Problem_S4_1158.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/알고리즘/문제코드/SSAFY/수업문제/Problem_S4_2164.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/알고리즘/문제코드/SSAFY/수업문제/Problem_S5_17478.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/알고리즘/문제코드/백준/Problem_S2_2805.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/알고리즘/문제코드/백준/단계710_그리디/Problem_G2_12051.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/알고리즘/문제코드/백준/단계800_분할정복/Problem_S4_10816.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/알고리즘/문제코드/백준/단계800_분할정복/Problem_S5_10815.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/알고리즘/문제코드/백준/단계800_분할정복/Problem_S5_11728.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/알고리즘/문제코드/백준/단계801_분할정복_연습/Problem_S2_1780.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/알고리즘/문제코드/백준/싸피_스터디/연습3/Problem_G4_1344.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/알고리즘/문제코드/백준/싸피_스터디/연습3/Problem_G4_2327.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/알고리즘/문제코드/백준/싸피_스터디/연습3/Problem_G4_2327_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/알고리즘/문제코드/백준/싸피_스터디/연습3/Problem_G5_13549.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/알고리즘/문제코드/백준/싸피_스터디/연습4/Problem_G4_1744.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/알고리즘/문제코드/백준/싸피_스터디/연습4/Problem_S3_2559.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/자바공부/모던자바/Apple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/자바공부/모던자바/Chapter3/Chapter3_Collection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/자바공부/모던자바/Chapter3/Chapter3_Collection2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/자바공부/모던자바/Chapter3/Chapter3_Map.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/자바공부/모던자바/Chapter3/Chapter3_test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/자바공부/모던자바/Chapter5/Chapter5_Stream.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/자바공부/모던자바/Chapter6/Chapter6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/자바공부/모던자바/Dish.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/자바공부/모던자바/Trader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/자바공부/모던자바/Transaction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/자바공부/모던자바/Type.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/자바공부/유튜브_라이브/Ex_BufferedReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/자바공부/유튜브_라이브/Ex_Scanner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/자바공부/유튜브_라이브/inputTC.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring/Spring_입문/hello-spring/src/main/java/hello/hellospring/SpringConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring/Spring_입문/hello-spring/src/main/java/hello/hellospring/controller/HelloController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring/Spring_입문/hello-spring/src/main/java/hello/hellospring/controller/MemberController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring/Spring_입문/hello-spring/src/main/java/hello/hellospring/domain/Member.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring/Spring_입문/hello-spring/src/main/java/hello/hellospring/repository/MemberRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring/Spring_입문/hello-spring/src/main/java/hello/hellospring/repository/MemoryMemberRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring/Spring_입문/hello-spring/src/main/java/hello/hellospring/service/MemberService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring/Spring_입문/hello-spring/src/main/resources/static/hello-static.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring/Spring_입문/hello-spring/src/main/resources/static/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring/Spring_입문/hello-spring/src/main/resources/templates/hello-template.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring/Spring_입문/hello-spring/src/test/java/hello/hellospring/repository/MemoryMemberRepositoryTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring/Spring_입문/hello-spring/src/test/java/hello/hellospring/service/MemberServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/자바공부/모던자바/Chapter8/Chapter8.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_Algorithm/자바공부/모던자바/Apple.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_Algorithm/자바공부/모던자바/Apple.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_Algorithm/자바공부/모던자바/AppleGreenColorPredicate.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_Algorithm/자바공부/모던자바/AppleGreenColorPredicate.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_Algorithm/자바공부/모던자바/AppleHeavyWeightPredicate.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_Algorithm/자바공부/모던자바/AppleHeavyWeightPredicate.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_Algorithm/자바공부/모던자바/Chapter2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_Algorithm/자바공부/모던자바/Chapter2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/자바공부/모던자바/Chapter2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/자바공부/모던자바/Chapter2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,24 +35,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "extract.method.default.visibility": "private",
-    "last_opened_file_path": "D:/study/Java_Algorithm/src/자바공부/모던자바",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "editing.templates"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;extract.method.default.visibility&quot;: &quot;private&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/study/Java_Algorithm/src/자바공부/모던자바&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editing.templates&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\study\Java_Algorithm\src\자바공부\모던자바" />
@@ -258,6 +202,7 @@
       <workItem from="1659881885910" duration="3392000" />
       <workItem from="1659926309721" duration="8227000" />
       <workItem from="1659968572153" duration="11615000" />
+      <workItem from="1661915835790" duration="3891000" />
     </task>
     <servers />
   </component>
