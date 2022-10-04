@@ -5,14 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="efe06709-25b7-4f33-8443-6652a96d3766" name="Changes" comment="Changes">
-      <change afterPath="$PROJECT_DIR$/src/알고리즘/문제코드/백준/싸피_스터디/Problem_P5_1385.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/알고리즘/문제코드/백준/싸피_스터디/연습7/Problem_G3_17616.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/알고리즘/문제코드/백준/싸피_스터디/연습7/Problem_G5_17352.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/알고리즘/문제코드/백준/싸피_스터디/연습8/Problem_G3_1947.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/알고리즘/문제코드/백준/싸피_스터디/연습8/Problem_G5_1722.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/알고리즘/문제코드/백준/싸피_스터디/연습9/Problem_G4_2295.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/알고리즘/문제코드/SSAFY/수업_221004/Problem_5656.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/알고리즘/문제코드/백준/Problem_S1_1149.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/알고리즘/문제코드/백준/Problem_S3_1463.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/자바공부/기본개념/Reflection/Child.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/자바공부/기본개념/Reflection/Parent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/자바공부/기본개념/Reflection/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring/Spring_핵심 원리/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring/Spring_핵심 원리/.idea/Spring_핵심 원리.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring/Spring_핵심 원리/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring/Spring_핵심 원리/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring/Spring_핵심 원리/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_Algorithm/알고리즘/문제코드/SSAFY/일타싸피/Practice.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_Algorithm/알고리즘/문제코드/SSAFY/일타싸피/Practice.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Algorithm/알고리즘/문제코드/백준/개인문제/Problem_S5_9655.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_Algorithm/알고리즘/문제코드/백준/개인문제/Problem_S5_9655.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Algorithm/알고리즘/문제코드/백준/싸피_스터디/연습9/Problem_G4_2295.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_Algorithm/알고리즘/문제코드/백준/싸피_스터디/연습9/Problem_G4_2295.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/Spring_핵심 원리/core/src/main/java/hello/core/discount/FixDiscountPolicy.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring/Spring_핵심 원리/core/src/main/java/hello/core/discount/FixDiscountPolicy.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +55,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "extract.method.default.visibility": "private",
-    "last_opened_file_path": "D:/study/Spring/Spring_핵심 원리/core",
+    "last_opened_file_path": "D:/study/Spring/Spring_핵심 원리",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -69,33 +76,20 @@
       <recent name="D:\study\Java_Algorithm\src\자바공부\유튜브_라이브" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="알고리즘.문제코드.백준" />
       <recent name="알고리즘.문제코드.백준.싸피_스터디.연습3" />
       <recent name="알고리즘.문제코드.백준.싸피_스터디.연습2" />
       <recent name="알고리즘.문제코드.백준.단계710_그리디" />
       <recent name="알고리즘.문제코드.백준.단계611_BFS" />
-      <recent name="알고리즘.문제코드.백준.싸피_스터디.연습1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Problem_G4_2295">
-    <configuration name="Practice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="알고리즘.문제코드.SSAFY.일타싸피.Practice" />
+  <component name="RunManager" selected="Application.Test">
+    <configuration name="Problem_5656" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="알고리즘.문제코드.SSAFY.수업_221004.Problem_5656" />
       <module name="Java_Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="알고리즘.문제코드.SSAFY.일타싸피.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Problem_G3_1947" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="알고리즘.문제코드.백준.싸피_스터디.연습8.Problem_G3_1947" />
-      <module name="Java_Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="알고리즘.문제코드.백준.싸피_스터디.연습8.*" />
+          <option name="PATTERN" value="알고리즘.문제코드.SSAFY.수업_221004.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,12 +110,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Problem_G5_1722" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="알고리즘.문제코드.백준.싸피_스터디.연습8.Problem_G5_1722" />
+    <configuration name="Problem_S1_1149" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="알고리즘.문제코드.백준.Problem_S1_1149" />
       <module name="Java_Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="알고리즘.문제코드.백준.싸피_스터디.연습8.*" />
+          <option name="PATTERN" value="알고리즘.문제코드.백준.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,12 +123,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Problem_P5_1385" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="알고리즘.문제코드.백준.싸피_스터디.Problem_P5_1385" />
+    <configuration name="Problem_S3_1463" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="알고리즘.문제코드.백준.Problem_S3_1463" />
       <module name="Java_Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="알고리즘.문제코드.백준.싸피_스터디.*" />
+          <option name="PATTERN" value="알고리즘.문제코드.백준.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="자바공부.기본개념.Reflection.Test" />
+      <module name="Java_Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="자바공부.기본개념.Reflection.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -144,11 +151,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.Problem_5656" />
+        <item itemvalue="Application.Problem_S3_1463" />
+        <item itemvalue="Application.Problem_S1_1149" />
         <item itemvalue="Application.Problem_G4_2295" />
-        <item itemvalue="Application.Problem_P5_1385" />
-        <item itemvalue="Application.Problem_G3_1947" />
-        <item itemvalue="Application.Problem_G5_1722" />
-        <item itemvalue="Application.Practice" />
       </list>
     </recent_temporary>
   </component>
@@ -222,6 +229,10 @@
       <workItem from="1663981995470" duration="596000" />
       <workItem from="1664020179411" duration="595000" />
       <workItem from="1664121486843" duration="1629000" />
+      <workItem from="1664438046959" duration="4130000" />
+      <workItem from="1664449469218" duration="337000" />
+      <workItem from="1664627279467" duration="351000" />
+      <workItem from="1664846106066" duration="10365000" />
     </task>
     <servers />
   </component>
@@ -481,6 +492,11 @@
           <url>file://$PROJECT_DIR$/src/알고리즘/문제코드/백준/단계800_분할정복/Problem_S5_10815.java</url>
           <line>41</line>
           <option name="timeStamp" value="146" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/알고리즘/문제코드/SSAFY/수업_221004/Problem_5656.java</url>
+          <line>77</line>
+          <option name="timeStamp" value="159" />
         </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.NullPointerException" package="java.lang" />
