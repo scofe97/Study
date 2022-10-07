@@ -5,17 +5,30 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="efe06709-25b7-4f33-8443-6652a96d3766" name="Changes" comment="Changes">
-      <change afterPath="$PROJECT_DIR$/src/알고리즘/문제코드/SSAFY/수업_221005/Problem_G4_2636.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/알고리즘/문제코드/SSAFY/수업_221006/Problem_1263.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/알고리즘/문제코드/SSAFY/수업_221006/Problem_D3_3307.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/알고리즘/문제코드/SSAFY/수업_221006/Problem_S1_9205.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/알고리즘/문제코드/이론/Graph/EX_FLOYD.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/알고리즘/문제코드/이론/LIS/EX_LIS_BruteForce.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/알고리즘/문제코드/이론/LIS/EX_LIS_DP.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/알고리즘/문제코드/이론/LIS/EX_LIS_nLogn.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/알고리즘/문제코드/SSAFY/수업_221007/Problem_G4_17471.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring/Spring_핵심 원리/core/src/main/java/hello/core/HelloLombok.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring/Spring_핵심 원리/core/src/main/java/hello/core/annotation/MainDiscountPolicy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring/Spring_핵심 원리/core/src/test/java/hello/core/autowired/AllBeanTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring/Spring_핵심 원리/core/src/test/java/hello/core/autowired/AutoWiredTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring/Spring_핵심 원리/core/src/test/java/hello/core/lifecycle/BeanLifeCycleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring/Spring_핵심 원리/core/src/test/java/hello/core/lifecycle/NetworkClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring/Spring_핵심 원리/core/src/test/java/hello/core/order/OrderServiceImplTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring/Spring_핵심 원리/core/src/test/java/hello/core/scan/filter/BeanA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring/Spring_핵심 원리/core/src/test/java/hello/core/scan/filter/BeanB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring/Spring_핵심 원리/core/src/test/java/hello/core/scan/filter/ComponentFilterAppConfigTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring/Spring_핵심 원리/core/src/test/java/hello/core/scan/filter/MyExcludeComponent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring/Spring_핵심 원리/core/src/test/java/hello/core/scan/filter/MyIncludeComponent.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/Spring_핵심 원리/core/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring/Spring_핵심 원리/core/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/Spring_핵심 원리/core/src/main/java/hello/core/AppConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring/Spring_핵심 원리/core/src/main/java/hello/core/AppConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/Spring_핵심 원리/core/src/main/java/hello/core/AutoAppConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring/Spring_핵심 원리/core/src/main/java/hello/core/AutoAppConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/Spring_핵심 원리/core/src/main/java/hello/core/discount/FixDiscountPolicy.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring/Spring_핵심 원리/core/src/main/java/hello/core/discount/FixDiscountPolicy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/Spring_핵심 원리/core/src/main/java/hello/core/discount/RateDiscountPolicy.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring/Spring_핵심 원리/core/src/main/java/hello/core/discount/RateDiscountPolicy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/Spring_핵심 원리/core/src/main/java/hello/core/order/OrderServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring/Spring_핵심 원리/core/src/main/java/hello/core/order/OrderServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/Spring_핵심 원리/core/src/test/java/hello/core/CoreApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring/Spring_핵심 원리/core/src/test/java/hello/core/CoreApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/Spring_핵심 원리/core/src/test/java/hello/core/beanFind/ApplicationContextBasicFindTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring/Spring_핵심 원리/core/src/test/java/hello/core/beanFind/ApplicationContextBasicFindTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/Spring_핵심 원리/core/src/test/java/hello/core/order/OrderServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring/Spring_핵심 원리/core/src/test/java/hello/core/order/OrderServiceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/Spring_핵심 원리/core/src/test/java/hello/core/xml/XmlAppContext.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring/Spring_핵심 원리/core/src/test/java/hello/core/xml/XmlAppContext.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,24 +57,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;extract.method.default.visibility&quot;: &quot;private&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/study/Java_Algorithm&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;File.Encoding&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "extract.method.default.visibility": "private",
+    "last_opened_file_path": "C:/SSAFY/Study/Java_Algorithm",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "File.Encoding"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\study\Java_Algorithm\src\자바공부\모던자바" />
@@ -79,20 +92,7 @@
       <recent name="알고리즘.문제코드.백준.싸피_스터디.연습3" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Problem_S1_9205">
-    <configuration name="EX_FLOYD" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="알고리즘.문제코드.이론.Graph.EX_FLOYD" />
-      <module name="Java_Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="알고리즘.문제코드.이론.Graph.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Problem_G4_17471">
     <configuration name="Problem_1263" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="알고리즘.문제코드.SSAFY.수업_221006.Problem_1263" />
       <module name="Java_Algorithm" />
@@ -132,6 +132,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Problem_G4_17471" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="알고리즘.문제코드.SSAFY.수업_221007.Problem_G4_17471" />
+      <module name="Java_Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="알고리즘.문제코드.SSAFY.수업_221007.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Problem_S1_9205" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="알고리즘.문제코드.SSAFY.수업_221006.Problem_S1_9205" />
       <module name="Java_Algorithm" />
@@ -147,11 +160,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Problem_G4_17471" />
         <item itemvalue="Application.Problem_S1_9205" />
         <item itemvalue="Application.Problem_1263" />
         <item itemvalue="Application.Problem_D3_33072" />
         <item itemvalue="Application.Problem_D3_3307" />
-        <item itemvalue="Application.EX_FLOYD" />
       </list>
     </recent_temporary>
   </component>
@@ -236,6 +249,7 @@
       <workItem from="1664976714733" duration="2023000" />
       <workItem from="1665028058296" duration="823000" />
       <workItem from="1665028926517" duration="11741000" />
+      <workItem from="1665100516466" duration="5600000" />
     </task>
     <servers />
   </component>
@@ -530,6 +544,11 @@
           <url>file://$PROJECT_DIR$/src/알고리즘/문제코드/SSAFY/수업_221006/Problem_S1_9205.java</url>
           <line>51</line>
           <option name="timeStamp" value="180" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/알고리즘/문제코드/SSAFY/수업_221007/Problem_G4_17471.java</url>
+          <line>70</line>
+          <option name="timeStamp" value="181" />
         </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.NullPointerException" package="java.lang" />
