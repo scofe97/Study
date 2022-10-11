@@ -14,6 +14,12 @@ public class BeanLifeCycleTest {
         ConfigurableApplicationContext ac = new AnnotationConfigApplicationContext(LifeCycleConfig.class);
         NetworkClient client = ac.getBean(NetworkClient.class);
         ac.close();
+
+        /**
+         * ConfigurableApplicationContext는 AnnotationConfigApplicationContext의 상위 인터페이스이다
+         * ConfigurableApplicationContext는 close를 제공한다
+         * ApplicationContext는 close를 제공하지 않는다.
+         */
     }
 
     @Configuration

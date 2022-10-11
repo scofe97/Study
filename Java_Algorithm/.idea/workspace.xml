@@ -5,30 +5,404 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="efe06709-25b7-4f33-8443-6652a96d3766" name="Changes" comment="Changes">
-      <change afterPath="$PROJECT_DIR$/src/알고리즘/문제코드/SSAFY/수업_221007/Problem_G4_17471.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring/Spring_핵심 원리/core/src/main/java/hello/core/HelloLombok.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring/Spring_핵심 원리/core/src/main/java/hello/core/annotation/MainDiscountPolicy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring/Spring_핵심 원리/core/src/test/java/hello/core/autowired/AllBeanTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring/Spring_핵심 원리/core/src/test/java/hello/core/autowired/AutoWiredTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring/Spring_핵심 원리/core/src/test/java/hello/core/lifecycle/BeanLifeCycleTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring/Spring_핵심 원리/core/src/test/java/hello/core/lifecycle/NetworkClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring/Spring_핵심 원리/core/src/test/java/hello/core/order/OrderServiceImplTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring/Spring_핵심 원리/core/src/test/java/hello/core/scan/filter/BeanA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring/Spring_핵심 원리/core/src/test/java/hello/core/scan/filter/BeanB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring/Spring_핵심 원리/core/src/test/java/hello/core/scan/filter/ComponentFilterAppConfigTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring/Spring_핵심 원리/core/src/test/java/hello/core/scan/filter/MyExcludeComponent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring/Spring_핵심 원리/core/src/test/java/hello/core/scan/filter/MyIncludeComponent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/알고리즘/문제코드/SSAFY/수업_221011/Problem_4014.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/알고리즘/문제코드/SSAFY/수업_221011/Problem_D4_5643.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/알고리즘/문제코드/SSAFY/수업_221011/Problem_G4_15961.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/알고리즘/문제코드/SSAFY/수업_221011/findString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/알고리즘/문제코드/SSAFY/수업_221011/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring/Spring_MVC1/servlet/src/main/java/hello/servlet/basic/HelloServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring/Spring_MVC1/servlet/src/main/java/hello/servlet/basic/request/HelloData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring/Spring_MVC1/servlet/src/main/java/hello/servlet/basic/request/RequestBodyJsonServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring/Spring_MVC1/servlet/src/main/java/hello/servlet/basic/request/RequestBodyStringServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring/Spring_MVC1/servlet/src/main/java/hello/servlet/basic/request/RequestHeaderServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring/Spring_MVC1/servlet/src/main/java/hello/servlet/basic/request/RequestParamServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring/Spring_MVC1/servlet/src/main/java/hello/servlet/basic/response/ResponseHeaderServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring/Spring_MVC1/servlet/src/main/java/hello/servlet/basic/response/ResponseHtmlServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring/Spring_MVC1/servlet/src/main/java/hello/servlet/basic/response/ResponseJsonServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring/Spring_MVC1/servlet/src/main/webapp/basic.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring/Spring_MVC1/servlet/src/main/webapp/basic/hello-form.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring/Spring_MVC1/servlet/src/main/webapp/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring/Spring_핵심 원리/core/src/test/java/hello/core/lifecycle/SingletonWithPrototypeTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring/Spring_핵심 원리/core/src/test/java/hello/core/scope/PrototypeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring/Spring_핵심 원리/core/src/test/java/hello/core/scope/SingletonTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java_Eclipse/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java_Eclipse/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java_Eclipse/.idea/Java_Eclipse.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java_Eclipse/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java_Eclipse/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java_Eclipse/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java_Eclipse/Java_Algorithm.eml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java_Eclipse/Java_Algorithm.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java_Eclipse/Java_Algorithm/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java_Eclipse/Java_Algorithm/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java_Eclipse/Java_Algorithm/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java_Eclipse/Java_Algorithm/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java_Eclipse/Java_Algorithm/src/Problem_D2_1959.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java_Eclipse/Java_Algorithm/src/Problem_D2_1961.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java_Eclipse/Java_Algorithm/src/Problem_D2_1974.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java_Eclipse/Java_Algorithm/src/Problem_D2_1979.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java_Eclipse/Java_Algorithm/src/Problem_D2_2001.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java_Eclipse/Java_Algorithm/src/Problem_D4_1226.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java_Eclipse/Java_Algorithm/src/Problem_D4_1238.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java_Eclipse/Java_Algorithm/src/Problem_D4_1249.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java_Eclipse/Java_Algorithm/src/Problem_D5_1247.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java_Eclipse/Java_Algorithm/src/Problem_D5_1248.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Pycham)/.idea/SSAFY TEST.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Pycham)/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Pycham)/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Pycham)/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Pycham)/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Pycham)/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Pycham)/10DAY/10200.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Pycham)/10DAY/4406.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Pycham)/10DAY/4676.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Pycham)/10DAY/5293.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Pycham)/10DAY/5515.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Pycham)/10DAY/5603.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Pycham)/10DAY/9700.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Pycham)/10DAY/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Pycham)/11DAY/13128.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Pycham)/11DAY/3314.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Pycham)/11DAY/3408.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Pycham)/11DAY/3750.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Pycham)/11DAY/3975.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Pycham)/11DAY/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Pycham)/12DAY/10570.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Pycham)/12DAY/10580.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Pycham)/12DAY/10965.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Pycham)/12DAY/12368.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Pycham)/12DAY/12741.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Pycham)/12DAY/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Pycham)/13DAY/11445.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Pycham)/13DAY/11688.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Pycham)/13DAY/11736.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Pycham)/13DAY/11856.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Pycham)/13DAY/1491.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Pycham)/13DAY/2948.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Pycham)/13DAY/4579.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Pycham)/13DAY/5162.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Pycham)/13DAY/5549.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Pycham)/13DAY/5642.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Pycham)/13DAY/5688.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Pycham)/13DAY/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Pycham)/14DAY/1003.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Pycham)/14DAY/11726.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Pycham)/14DAY/11727.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Pycham)/14DAY/1436.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Pycham)/14DAY/14501.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Pycham)/14DAY/1904.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Pycham)/14DAY/2193.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Pycham)/14DAY/2579.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Pycham)/14DAY/9059.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Pycham)/14DAY/9461.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Pycham)/14DAY/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Pycham)/15DAY/1012.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Pycham)/15DAY/1699.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Pycham)/15DAY/2407.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Pycham)/15DAY/2606.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Pycham)/15DAY/9507.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Pycham)/15DAY/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Pycham)/16DAY+/11387.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Pycham)/16DAY+/12051.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Pycham)/16DAY+/3032.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Pycham)/16DAY+/4698.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Pycham)/16DAY+/4789.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Pycham)/16DAY+/7675.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Pycham)/16DAY+/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Pycham)/16DAY+/d2/1204.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Pycham)/16DAY+/d2/1284.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Pycham)/16DAY+/d2/1859.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Pycham)/16DAY+/d2/1926.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Pycham)/16DAY+/d2/1928.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Pycham)/16DAY+/d2/1945.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Pycham)/16DAY+/d2/1954.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Pycham)/16DAY+/d2/1970.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Pycham)/16DAY+/d2/1974.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Pycham)/16DAY+/d2/1979.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Pycham)/16DAY+/d2/1983.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Pycham)/16DAY+/d2/2005.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Pycham)/16DAY+/d2/2007.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Pycham)/16DAY+/d2/2047.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Pycham)/16DAY+/d2/2056.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Pycham)/16DAY+/d2/2063.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Pycham)/16DAY+/d2/2072.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Pycham)/16DAY+/d2/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Pycham)/1~30 REVIEW/11285.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Pycham)/1~30 REVIEW/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Pycham)/8DAY/10726.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Pycham)/8DAY/10761(2).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Pycham)/8DAY/10761.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Pycham)/8DAY/12004.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Pycham)/8DAY/14178.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Pycham)/8DAY/2930.PY" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Pycham)/8DAY/2930_2.PY" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Pycham)/8DAY/4522.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Pycham)/8DAY/5356.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Pycham)/8DAY/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Pycham)/9DAY/10505.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Pycham)/9DAY/13083(2).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Pycham)/9DAY/13083.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Pycham)/9DAY/3142.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Pycham)/9DAY/3260.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Pycham)/9DAY/3304.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Pycham)/9DAY/3809.PY.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Pycham)/9DAY/4047.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Pycham)/9DAY/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Pycham)/final/2930.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Pycham)/final/3282.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Pycham)/final/5293.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Pycham)/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Pycham)/review/Dictionay use.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Pycham)/review/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Pycham)/review/basic.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Pycham)/test/14501(2).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Pycham)/test/14501.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Pycham)/test/1541.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Pycham)/test/2210.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Pycham)/test/3005.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Pycham)/test/7568.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Pycham)/test/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Pycham)/test/test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Pycham)/test/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Vscode)/.vscode/launch.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Vscode)/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Vscode)/SSAFY 코테스터디/14일차/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Vscode)/SSAFY 코테스터디/14일차/11726(백준).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Vscode)/SSAFY 코테스터디/14일차/11727(백준).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Vscode)/SSAFY 코테스터디/14일차/1463(백준).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Vscode)/SSAFY 코테스터디/14일차/15990.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Vscode)/SSAFY 코테스터디/14일차/9059(백준).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Vscode)/SSAFY 코테스터디/1일차/1_2001.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Vscode)/SSAFY 코테스터디/1일차/2_11315.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Vscode)/SSAFY 코테스터디/1일차/3_4615.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Vscode)/SSAFY 코테스터디/1일차/4_1213.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Vscode)/SSAFY 코테스터디/1일차/5_7193.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Vscode)/SSAFY 코테스터디/1일차/TEST.PY" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Vscode)/SSAFY 코테스터디/2일차/05_1215.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Vscode)/SSAFY 코테스터디/2일차/06_2805.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Vscode)/SSAFY 코테스터디/2일차/07_2806.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Vscode)/SSAFY 코테스터디/2일차/1244(set).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Vscode)/SSAFY 코테스터디/2일차/1_1206.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Vscode)/SSAFY 코테스터디/2일차/2_1244.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Vscode)/SSAFY 코테스터디/2일차/3_1208.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Vscode)/SSAFY 코테스터디/2일차/4_1209_.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Vscode)/SSAFY 코테스터디/3일차/1216.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Vscode)/SSAFY 코테스터디/3일차/1220.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Vscode)/SSAFY 코테스터디/3일차/1225.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Vscode)/SSAFY 코테스터디/3일차/1289.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Vscode)/SSAFY 코테스터디/3일차/1860.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Vscode)/SSAFY 코테스터디/3일차/2814.PY" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Vscode)/SSAFY 코테스터디/3일차/2817.PY" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Vscode)/SSAFY 코테스터디/3일차/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Vscode)/SSAFY 코테스터디/4일차/1_5215.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Vscode)/SSAFY 코테스터디/4일차/2_1493.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Vscode)/SSAFY 코테스터디/4일차/3_1217.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Vscode)/SSAFY 코테스터디/4일차/4_1234.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Vscode)/SSAFY 코테스터디/4일차/5_3282.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Vscode)/SSAFY 코테스터디/5일차/11285.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Vscode)/SSAFY 코테스터디/5일차/1230.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Vscode)/SSAFY 코테스터디/5일차/3131.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Vscode)/SSAFY 코테스터디/5일차/3431.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Vscode)/SSAFY 코테스터디/5일차/5948.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Vscode)/SSAFY 코테스터디/6일차/13428.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Vscode)/SSAFY 코테스터디/6일차/1873.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Vscode)/SSAFY 코테스터디/6일차/3307.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Vscode)/SSAFY 코테스터디/6일차/3456.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Vscode)/SSAFY 코테스터디/6일차/4299.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Vscode)/SSAFY 코테스터디/6일차/5432.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Vscode)/SSAFY 코테스터디/6일차/5789.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Vscode)/SSAFY 코테스터디/7일차/10912.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Vscode)/SSAFY 코테스터디/7일차/1221.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Vscode)/SSAFY 코테스터디/7일차/3499.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Vscode)/SSAFY 코테스터디/7일차/4466.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Vscode)/SSAFY 코테스터디/7일차/6190.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Vscode)/SSAFY 코테스터디/7일차/6485.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Vscode)/SSAFY 코테스터디/7일차/6692.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Vscode)/SSAFY 코테스터디/8일차/.idea/8일차.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Vscode)/SSAFY 코테스터디/8일차/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Vscode)/SSAFY 코테스터디/8일차/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Vscode)/SSAFY 코테스터디/8일차/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Vscode)/SSAFY 코테스터디/8일차/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Vscode)/SSAFY 코테스터디/8일차/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Vscode)/SSAFY 코테스터디/8일차/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Vscode)/swea문제/1.13732_1.PY" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Vscode)/swea문제/1.13732_3.PY" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Vscode)/swea문제/1.13732_correct.PY" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Vscode)/swea문제/10_1216.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Vscode)/swea문제/11_1220.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Vscode)/swea문제/12_1289.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Vscode)/swea문제/13_1225.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Vscode)/swea문제/14_1860.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Vscode)/swea문제/15_5215.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Vscode)/swea문제/16_1493(2).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Vscode)/swea문제/16_1493.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Vscode)/swea문제/17_1240.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Vscode)/swea문제/18_1217.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Vscode)/swea문제/19_1234.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Vscode)/swea문제/2..1206.PY" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Vscode)/swea문제/20_3282 copy.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Vscode)/swea문제/20_3282(보충).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Vscode)/swea문제/20_3282(보충2).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Vscode)/swea문제/20_3282.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Vscode)/swea문제/21_1244.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Vscode)/swea문제/22_13547.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Vscode)/swea문제/23_5948.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Vscode)/swea문제/24_5607(correct).java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Vscode)/swea문제/24_5607.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Vscode)/swea문제/3.1208.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Vscode)/swea문제/3.1208_correct.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Vscode)/swea문제/4.2806 correct.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Vscode)/swea문제/4.2806.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Vscode)/swea문제/5.2805.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Vscode)/swea문제/6_1215.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Vscode)/swea문제/7_1209.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Vscode)/swea문제/8_2817.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Vscode)/swea문제/9_2814.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Vscode)/swea문제/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Vscode)/파이썬 활용/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Vscode)/파이썬 활용/asterisk 활용.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Vscode)/파이썬 활용/라이브러리/math.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Vscode)/파이썬 활용/알고리즘/1_N진법 변환.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Vscode)/파이썬 활용/알고리즘/2_에라토네스의 체(소수).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Vscode)/파이썬 활용/알고리즘/2_에라토네스의 체(소수)2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Vscode)/파이썬 활용/자료형/2_리스트/1_리스트공부(기본).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Vscode)/파이썬 활용/자료형/2_리스트/2_리스트공부(응용).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Vscode)/파이썬 활용/자료형/2_리스트/3_리스트 초기화(2차원).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSAFY 코테대비(Vscode)/파이썬 활용/자료형/2_리스트/4_집합공부(기본).py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Spring/Spring_핵심 원리/core/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring/Spring_핵심 원리/core/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_핵심 원리/core/src/main/java/hello/core/AppConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring/Spring_핵심 원리/core/src/main/java/hello/core/AppConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_핵심 원리/core/src/main/java/hello/core/AutoAppConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring/Spring_핵심 원리/core/src/main/java/hello/core/AutoAppConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_핵심 원리/core/src/main/java/hello/core/discount/FixDiscountPolicy.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring/Spring_핵심 원리/core/src/main/java/hello/core/discount/FixDiscountPolicy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_핵심 원리/core/src/main/java/hello/core/discount/RateDiscountPolicy.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring/Spring_핵심 원리/core/src/main/java/hello/core/discount/RateDiscountPolicy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_핵심 원리/core/src/main/java/hello/core/order/OrderServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring/Spring_핵심 원리/core/src/main/java/hello/core/order/OrderServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_핵심 원리/core/src/test/java/hello/core/CoreApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring/Spring_핵심 원리/core/src/test/java/hello/core/CoreApplicationTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_핵심 원리/core/src/test/java/hello/core/beanFind/ApplicationContextBasicFindTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring/Spring_핵심 원리/core/src/test/java/hello/core/beanFind/ApplicationContextBasicFindTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_핵심 원리/core/src/test/java/hello/core/order/OrderServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring/Spring_핵심 원리/core/src/test/java/hello/core/order/OrderServiceTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_핵심 원리/core/src/test/java/hello/core/xml/XmlAppContext.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring/Spring_핵심 원리/core/src/test/java/hello/core/xml/XmlAppContext.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/Spring_핵심 원리/core/src/test/java/hello/core/lifecycle/BeanLifeCycleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring/Spring_핵심 원리/core/src/test/java/hello/core/lifecycle/BeanLifeCycleTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/Spring_핵심 원리/core/src/test/java/hello/core/lifecycle/NetworkClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring/Spring_핵심 원리/core/src/test/java/hello/core/lifecycle/NetworkClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workspace/Work_java/.metadata/.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workspace/Work_java/.metadata/.mylyn/repositories.xml.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workspace/Work_java/.metadata/.plugins/com.genuitec.eclipse.devstyle/recent.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workspace/Work_java/.metadata/.plugins/com.genuitec.eclipse.monitor/myeclipse-usage.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workspace/Work_java/.metadata/.plugins/com.genuitec.eclipse.ui.common.platform/color-definitions-fix.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workspace/Work_java/.metadata/.plugins/com.genuitec.eclipse.ui.common.platform/colors-org.eclipse.egit.ui-1849137576.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workspace/Work_java/.metadata/.plugins/com.genuitec.eclipse.ui.common.platform/colors-org.eclipse.epp.mpc.ui.css--1027399938.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workspace/Work_java/.metadata/.plugins/com.genuitec.eclipse.ui.common.platform/colors-org.eclipse.jdt.ui-326703266.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workspace/Work_java/.metadata/.plugins/com.genuitec.eclipse.ui.common.platform/colors-org.eclipse.mylyn.tasks.ui--477129374.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workspace/Work_java/.metadata/.plugins/com.genuitec.eclipse.ui.common.platform/splash-fix.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workspace/Work_java/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/history.version" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workspace/Work_java/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workspace/Work_java/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.version" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workspace/Work_java/.metadata/.plugins/org.eclipse.core.resources/.root/1.tree" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workspace/Work_java/.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workspace/Work_java/.metadata/.plugins/org.eclipse.core.runtime/.settings/ccw.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workspace/Work_java/.metadata/.plugins/org.eclipse.core.runtime/.settings/com.adobe.flexide.as.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workspace/Work_java/.metadata/.plugins/org.eclipse.core.runtime/.settings/com.adobe.flexide.css.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workspace/Work_java/.metadata/.plugins/org.eclipse.core.runtime/.settings/com.adobe.flexide.mxml.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workspace/Work_java/.metadata/.plugins/org.eclipse.core.runtime/.settings/com.axmor.eclipse.typescript.editor.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workspace/Work_java/.metadata/.plugins/org.eclipse.core.runtime/.settings/com.dubture.twig.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workspace/Work_java/.metadata/.plugins/org.eclipse.core.runtime/.settings/com.genuitec.eclipse.codetogether.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workspace/Work_java/.metadata/.plugins/org.eclipse.core.runtime/.settings/com.genuitec.eclipse.monitor.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workspace/Work_java/.metadata/.plugins/org.eclipse.core.runtime/.settings/com.genuitec.eclipse.sqlexplorer.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workspace/Work_java/.metadata/.plugins/org.eclipse.core.runtime/.settings/com.genuitec.eclipse.theming.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workspace/Work_java/.metadata/.plugins/org.eclipse.core.runtime/.settings/com.github.eclipsecolortheme.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workspace/Work_java/.metadata/.plugins/org.eclipse.core.runtime/.settings/com.github.rustdt.ide.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workspace/Work_java/.metadata/.plugins/org.eclipse.core.runtime/.settings/com.google.eclipse.protobuf.Protobuf.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workspace/Work_java/.metadata/.plugins/org.eclipse.core.runtime/.settings/com.googlecode.goclipse.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workspace/Work_java/.metadata/.plugins/org.eclipse.core.runtime/.settings/com.palantir.typescript.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workspace/Work_java/.metadata/.plugins/org.eclipse.core.runtime/.settings/com.powerflasher.fdt.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workspace/Work_java/.metadata/.plugins/org.eclipse.core.runtime/.settings/com.puppetlabs.geppetto.module.dsl.Module.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workspace/Work_java/.metadata/.plugins/org.eclipse.core.runtime/.settings/com.puppetlabs.geppetto.pp.dsl.PP.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workspace/Work_java/.metadata/.plugins/org.eclipse.core.runtime/.settings/com.spket.js.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workspace/Work_java/.metadata/.plugins/org.eclipse.core.runtime/.settings/com.spket.xml.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workspace/Work_java/.metadata/.plugins/org.eclipse.core.runtime/.settings/com.wolfram.eclipse.MEET.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workspace/Work_java/.metadata/.plugins/org.eclipse.core.runtime/.settings/de.walware.statet.base.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workspace/Work_java/.metadata/.plugins/org.eclipse.core.runtime/.settings/de.walware.statet.r.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workspace/Work_java/.metadata/.plugins/org.eclipse.core.runtime/.settings/eclihx.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workspace/Work_java/.metadata/.plugins/org.eclipse.core.runtime/.settings/jp.gr.java_conf.ussiy.app.propedit.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workspace/Work_java/.metadata/.plugins/org.eclipse.core.runtime/.settings/jsonedit-core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workspace/Work_java/.metadata/.plugins/org.eclipse.core.runtime/.settings/net.sf.eclipsefp.haskell.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workspace/Work_java/.metadata/.plugins/org.eclipse.core.runtime/.settings/net.sourceforge.texlipse.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workspace/Work_java/.metadata/.plugins/org.eclipse.core.runtime/.settings/net.vtst.ow.eclipse.less.Less.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workspace/Work_java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.apache.ivyde.eclipse.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workspace/Work_java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.cfeclipse.cfml.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workspace/Work_java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.chromium.debug.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workspace/Work_java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.cloudsmith.geppetto.pp.dsl.PP.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workspace/Work_java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.codehaus.groovy.eclipse.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workspace/Work_java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.dadacoalition.yedit.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workspace/Work_java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.angularjs.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workspace/Work_java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ant.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workspace/Work_java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.cdt.dsf.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workspace/Work_java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.cdt.make.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workspace/Work_java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.cdt.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workspace/Work_java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workspace/Work_java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.datatools.sqltools.sqleditor.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workspace/Work_java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.debug.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workspace/Work_java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.dltk.ruby.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workspace/Work_java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.dltk.tcl.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workspace/Work_java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.e4.CSS.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workspace/Work_java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.e4.ui.css.swt.theme.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workspace/Work_java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.e4.ui.workbench.renderers.swt.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workspace/Work_java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.epp.logging.aeri.ide.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workspace/Work_java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workspace/Work_java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jst.j2ee.webservice.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workspace/Work_java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jst.jsp.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workspace/Work_java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.m2e.discovery.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workspace/Work_java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.context.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workspace/Work_java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.monitor.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workspace/Work_java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.tasks.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workspace/Work_java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.wikitext.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workspace/Work_java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.pde.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workspace/Work_java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.php.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workspace/Work_java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.rse.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workspace/Work_java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.team.cvs.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workspace/Work_java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.tm.terminal.control.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workspace/Work_java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.tm4e.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workspace/Work_java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.editors.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workspace/Work_java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.genericeditor.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workspace/Work_java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.ide.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workspace/Work_java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.workbench.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workspace/Work_java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.wst.css.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workspace/Work_java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.wst.dtd.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workspace/Work_java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.wst.html.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workspace/Work_java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.wst.jsdt.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workspace/Work_java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.wst.json.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workspace/Work_java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.wst.sse.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workspace/Work_java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.wst.xml.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workspace/Work_java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.wst.xsl.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workspace/Work_java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.xtend.core.Xtend.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workspace/Work_java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.epic.perleditor.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workspace/Work_java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.erlide.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workspace/Work_java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.jboss.ide.eclipse.freemarker.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workspace/Work_java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.nodeclipse.enide.editors.gradle.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workspace/Work_java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.nodeclipse.enide.editors.jade.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workspace/Work_java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.python.pydev.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workspace/Work_java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.scala-ide.play2.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workspace/Work_java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.scala-ide.sdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workspace/Work_java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.sourceforge.jsonedit-core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workspace/Work_java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.sweetlemonade.eclipse.json.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workspace/Work_java/.metadata/.plugins/org.eclipse.core.runtime/.settings/winterwell.markdown.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workspace/Work_java/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workspace/Work_java/.metadata/.plugins/org.eclipse.jdt.core/assumedExternalFilesCache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workspace/Work_java/.metadata/.plugins/org.eclipse.jdt.core/externalFilesCache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workspace/Work_java/.metadata/.plugins/org.eclipse.jdt.core/index.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workspace/Work_java/.metadata/.plugins/org.eclipse.jdt.core/nonChainingJarsCache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workspace/Work_java/.metadata/.plugins/org.eclipse.jdt.core/variablesAndContainers.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workspace/Work_java/.metadata/.plugins/org.eclipse.jdt.ui/OpenTypeHistory.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workspace/Work_java/.metadata/.plugins/org.eclipse.jdt.ui/QualifiedTypeNameHistory.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workspace/Work_java/.metadata/.plugins/org.eclipse.m2e.logback.configuration/0.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workspace/Work_java/.metadata/.plugins/org.eclipse.m2e.logback.configuration/logback.1.9.1.20180912-1601.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workspace/Work_java/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workspace/Work_java/.metadata/.plugins/org.eclipse.rse.core/.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workspace/Work_java/.metadata/.plugins/org.eclipse.rse.core/initializerMarks/org.eclipse.rse.internal.core.RSELocalConnectionInitializer.mark" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workspace/Work_java/.metadata/.plugins/org.eclipse.tips.ide/dialog_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workspace/Work_java/.metadata/.plugins/org.eclipse.tm.terminal.view.ui/.executables/data.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workspace/Work_java/.metadata/.plugins/org.eclipse.ui.ide/dialog_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workspace/Work_java/.metadata/.plugins/org.eclipse.ui.intro/introstate" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workspace/Work_java/.metadata/.plugins/org.eclipse.ui.workbench/dialog_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workspace/Work_java/.metadata/.plugins/org.eclipse.ui.workbench/workingsets.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workspace/Work_java/.metadata/defender.check" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workspace/Work_java/.metadata/version.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workspace/Work_java/[220718] 수업내용/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workspace/Work_java/[220718] 수업내용/.recommenders/caches/identified-project-coordinates.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Workspace/Work_java/[220718] 수업내용/.recommenders/caches/manual-mappings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../노벨피아 공모전 정리/천지창조 공모전!/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/../노벨피아 공모전 정리/천지창조 공모전!/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../노벨피아 공모전 정리/천지창조 공모전!/단계1_데이터_추출3.py" beforeDir="false" afterPath="$PROJECT_DIR$/../노벨피아 공모전 정리/천지창조 공모전!/단계1_데이터_추출3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../노벨피아 공모전 정리/천지창조 공모전!/단계2_엑셀_전체2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../노벨피아 공모전 정리/천지창조 공모전!/단계2_엑셀_전체2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../노벨피아 공모전 정리/천지창조 공모전!/단계3_엑셀_생성.py" beforeDir="false" afterPath="$PROJECT_DIR$/../노벨피아 공모전 정리/천지창조 공모전!/단계3_엑셀_생성.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +438,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "extract.method.default.visibility": "private",
-    "last_opened_file_path": "C:/SSAFY/Study/Java_Algorithm",
+    "last_opened_file_path": "D:/study/Java_Algorithm",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -92,13 +466,13 @@
       <recent name="알고리즘.문제코드.백준.싸피_스터디.연습3" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Problem_G4_17471">
-    <configuration name="Problem_1263" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="알고리즘.문제코드.SSAFY.수업_221006.Problem_1263" />
+  <component name="RunManager" selected="Application.Problem_G4_15961">
+    <configuration name="Problem_4014" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="알고리즘.문제코드.SSAFY.수업_221011.Problem_4014" />
       <module name="Java_Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="알고리즘.문제코드.SSAFY.수업_221006.*" />
+          <option name="PATTERN" value="알고리즘.문제코드.SSAFY.수업_221011.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,25 +480,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Problem_D3_3307" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="알고리즘.문제코드.SSAFY.수업_221006.Problem_D3_3307" />
+    <configuration name="Problem_G4_15961" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="알고리즘.문제코드.SSAFY.수업_221011.Problem_G4_15961" />
       <module name="Java_Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="알고리즘.문제코드.SSAFY.수업_221006.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Problem_D3_33072" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="알고리즘.문제코드.SSAFY.수업_221006.Problem_D3_33072" />
-      <module name="Java_Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="알고리즘.문제코드.SSAFY.수업_221006.*" />
+          <option name="PATTERN" value="알고리즘.문제코드.SSAFY.수업_221011.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -145,12 +506,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Problem_S1_9205" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="알고리즘.문제코드.SSAFY.수업_221006.Problem_S1_9205" />
+    <configuration name="findString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="알고리즘.문제코드.SSAFY.수업_221011.findString" />
       <module name="Java_Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="알고리즘.문제코드.SSAFY.수업_221006.*" />
+          <option name="PATTERN" value="알고리즘.문제코드.SSAFY.수업_221011.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="알고리즘.문제코드.SSAFY.수업_221011.test" />
+      <module name="Java_Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="알고리즘.문제코드.SSAFY.수업_221011.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -160,11 +534,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Problem_G4_15961" />
+        <item itemvalue="Application.test" />
+        <item itemvalue="Application.findString" />
+        <item itemvalue="Application.Problem_4014" />
         <item itemvalue="Application.Problem_G4_17471" />
-        <item itemvalue="Application.Problem_S1_9205" />
-        <item itemvalue="Application.Problem_1263" />
-        <item itemvalue="Application.Problem_D3_33072" />
-        <item itemvalue="Application.Problem_D3_3307" />
       </list>
     </recent_temporary>
   </component>
@@ -250,6 +624,7 @@
       <workItem from="1665028058296" duration="823000" />
       <workItem from="1665028926517" duration="11741000" />
       <workItem from="1665100516466" duration="5600000" />
+      <workItem from="1665459956464" duration="11272000" />
     </task>
     <servers />
   </component>

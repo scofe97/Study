@@ -18,7 +18,6 @@ public class NetworkClient{
         this.url = url;
     }
 
-    @PostConstruct
     public void connect(){
         System.out.println("connect: " + url);
     }
@@ -28,20 +27,21 @@ public class NetworkClient{
         System.out.println("call : " + url + " message = " + message);
     }
 
-    // 서비스 종료시 호출
-    @PreDestroy
+
     public void disconnect(){
         System.out.println("close " + url);
     }
 
-
+    // 주입완료시 호출
+    @PostConstruct
     public void init() {
         System.out.println("NetworkClient.init");
         connect();
         call("초기화 연결 메시지");
     }
 
-
+    // 서비스 종료시 호출
+    @PreDestroy
     public void close() throws Exception {
         System.out.println("NetworkClient.close");
         disconnect();

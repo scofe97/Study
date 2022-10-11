@@ -15,7 +15,7 @@ def extract3(filename):
 
     Novels = []
     # ? 파일가져오는 코드
-    dir = r'C:\Users\scofe\OneDrive\Study\노벨피아 공모전 정리\천지창조 공모전!\날짜별_엑셀_데이터\{0}'.format(filename)
+    dir = r'D:\study\노벨피아 공모전 정리\천지창조 공모전!\날짜별_엑셀_데이터\{0}'.format(filename)
     today_wb = load_workbook(dir, data_only=True)
 
     if "Sheet1" in today_wb.get_sheet_names() :
@@ -93,18 +93,20 @@ def extract3(filename):
         if "공모전" not in novel_data:
             continue
         
+        
+        print(novel_data)
         Novels.append(
             Novel(
                 code = novel_code,
                 title = novel_data[0],
                 b_19 =  novel_b_19,
                 thumbnail = novel_thumbnail,
-                author = novel_data[5].lstrip("작가"),
+                author = novel_data[4].lstrip("작가"),
                 views = novel_VEL[0],
                 episodes = novel_VEL[1],
                 likes = novel_VEL[2],
-                bookmarks = int(novel_data[3]),
-                alarms = int(novel_data[4]),
+                bookmarks = int(novel_data[2]),
+                alarms = int(novel_data[3]),
                 tag = novel_tag,
                 episode_start_30 = novel_start_30,
                 episode_end_30 = novel_end_30,

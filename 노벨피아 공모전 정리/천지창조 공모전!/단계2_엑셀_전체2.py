@@ -32,7 +32,7 @@ def create_all_excel2(today_fileName,yesterday_fileName,sheetName):
 
 
     # ? 파일가져오는 코드
-    dir = r'C:\Users\scofe\OneDrive\Study\노벨피아 공모전 정리\천지창조 공모전!\날짜별_엑셀_데이터\{0}'.format(today_fileName)
+    dir = r'D:\study\노벨피아 공모전 정리\천지창조 공모전!\날짜별_엑셀_데이터\{0}'.format(today_fileName)
     today_wb = load_workbook(dir, data_only=True)
     create_ws = today_wb.create_sheet(sheetName)
 
