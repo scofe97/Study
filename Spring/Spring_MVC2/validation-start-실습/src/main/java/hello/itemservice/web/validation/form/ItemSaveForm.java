@@ -1,4 +1,4 @@
-package hello.login.web.item.form;
+package hello.itemservice.web.validation.form;
 
 import lombok.Data;
 import org.hibernate.validator.constraints.Range;
@@ -9,6 +9,7 @@ import javax.validation.constraints.NotNull;
 
 @Data
 public class ItemSaveForm {
+
     @NotBlank
     private String itemName;
 
