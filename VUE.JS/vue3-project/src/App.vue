@@ -1,50 +1,65 @@
 <template>
-  <div class="name">
-    {{ name }}
-  </div>
-  <div>
-    {{ greeting() }}
-  </div>
-  <div>
-    {{ greeting2('Bohyeon') }}
-  </div>
-  <div>
-    {{ greeting2(name) }}
-  </div>
-  <div>
-    {{ greeting3 }}
+  <div class="container">
+    <h4>count : {{ count }}</h4>
+    <h4>double count computed : {{ doubleCountComputed }}</h4>
+    <h4>double count methods : {{ doubleCountMethod() }}</h4>
+    <button @click="count++">Add one</button>
+    <h2>To-Do List</h2>
+    <TodoSimpleForm @add-todo="addTodo" />
+
+    <div v-if="!todos.length">
+      추가된 Todo가 없습니다
+    </div>
+    <TodoList :todos="todos" @toggle-todo="toggleTodo" @delete-todo="deleteTodo" />
   </div>
 </template>
 
 <script>
+import { ref, computed } from 'vue';
+import TodoSimpleForm from './components/TodoSimpleForm.vue';
+import TodoList from './components/TodoList.vue';
+
 export default {
+  components: {
+    TodoSimpleForm,
+    TodoList,
+  },
   setup() {
-    const name = "Kossie Coder";
+    const todos = ref([]);
+    const addTodo = (todo) => {
+      todos.value.push(todo);
+    };
+    const deleteTodo = (index) => {
+      todos.value.splice(index, 1);
+    };
+    const toggleTodo = (index) => {
+      todos.value[index].complited = !todos.value[index].complited;
+    };
 
-    // 함수사용
-    const greeting = () => {
-      return "Hello"
-    }
-
-    // 함수사용2
-    const greeting2 = (name) => {
-      return "Hello " + name
-    }
-
-    const greeting3 = greeting2(name);
+    const count = ref(1);
+    const doubleCountComputed = computed(() => {
+      return count.value * 2;
+    });
+    const doubleCountMethod = (() => {
+      return count.value * 2;
+    });
 
     return {
-      name,
-      greeting,
-      greeting2,
-      greeting3,
+      todos,
+      addTodo,
+      deleteTodo,
+      toggleTodo,
+      count,
+      doubleCountComputed,
+      doubleCountMethod
     };
-  },
-};
+  }
+}
 </script>
 
 <style>
-.name {
-  color: red;
+.todo {
+  color: gray;
+  text-decoration: line-through;
 }
 </style>
