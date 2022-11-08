@@ -1,116 +1,21 @@
 <template>
-  <div class="container">
-    <h2>To-Do List</h2>
-    <input class="form-control" type="text" v-model="serachText" placeholder="search">
-    <hr />
-    <TodoSimpleForm @add-todo="addTodo" />
-    <div style="color:red">{{ error }}</div>
+  <nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <router-link class="navbar-brand" :to="{ name: 'Home' }">Kossie Coder</router-link>
 
-    <div v-if="!filteredTodos.length">
-      There is nothing to display
-    </div>
-    <TodoList :todos="filteredTodos" @toggle-todo="toggleTodo" @delete-todo="deleteTodo" />
-  </div>
+    <ul class="navbar-nav mr-auto">
+      <li class="nav-item active">
+        <router-link class="nav-link" :to="{ name: 'Todos' }">Todos <span class="sr-only">(current)</span></router-link>
+      </li>
+    </ul>
+  </nav>
+  <router-view />
 </template>
 
 <script>
-import { ref, computed } from 'vue';
-import TodoSimpleForm from './components/TodoSimpleForm.vue';
-import TodoList from './components/TodoList.vue';
-import axios from 'axios'
-
 export default {
-  components: {
-    TodoSimpleForm,
-    TodoList,
-  },
-  setup() {
-    const todos = ref([]);
-    const error = ref('');
-
-    const getTodos = async () => {
-      try {
-        const res = await axios.get("http://localhost:3000/todos");
-        console.log(res.data);
-        todos.value = res.data;
-      } catch (err) {
-        console.log(err);
-      }
-    };
-
-    getTodos();
-
-    const addTodo = async (todo) => {
-      // 데이터베이스 todo를 저장
-      error.value = '';
-      try {
-        const res = await axios.post('http://localhost:3000/todos', {
-          subject: todo.subject,
-          completed: todo.completed,
-        });
-        console.log(res);
-        todos.value.push(res.data);
-      } catch (err) {
-        console.log(err);
-        error.value = 'Something went wrong.'
-      }
-
-    };
-    const deleteTodo = async (index) => {
-      error.value = '';
-      const id = todos.value[index].id
-      try {
-        const res = await axios.delete('http://localhost:3000/todos/' + id);
-        console.log(res);
-        todos.value.splice(index, 1);
-      } catch (err) {
-        console.log(err);
-        err.value = "Something went wrong";
-      }
-    };
-    const toggleTodo = async (index) => {
-      error.value = '';
-      const id = todos.value[index].id
-      try{
-        await axios.patch('http://localhost:3000/todos/' + id,{
-          completed: !todos.value[index].completed
-        });
-
-        todos.value[index].completed = !todos.value[index].completed;
-      }catch(err){
-        console.log(err);
-        err.value = "Something went wrong";
-      }
-      
-    };
-
-    const serachText = ref('');
-    const filteredTodos = computed(() => {
-      if (serachText.value) {
-        return todos.value.filter(todo => {
-          return todo.subject.includes(serachText.value);
-        });
-      }
-
-      return todos.value
-    })
-
-    return {
-      todos,
-      addTodo,
-      deleteTodo,
-      toggleTodo,
-      serachText,
-      filteredTodos,
-      error,
-    };
-  }
 }
 </script>
 
 <style>
-.todo {
-  color: gray;
-  text-decoration: line-through;
-}
+
 </style>
