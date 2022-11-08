@@ -1,16 +1,15 @@
 <template>
   <div class="container">
-    <h4>count : {{ count }}</h4>
-    <h4>double count computed : {{ doubleCountComputed }}</h4>
-    <h4>double count methods : {{ doubleCountMethod() }}</h4>
-    <button @click="count++">Add one</button>
     <h2>To-Do List</h2>
+    <input class="form-control" type="text" v-model="serachText" placeholder="search">
+    <hr />
     <TodoSimpleForm @add-todo="addTodo" />
+    <div style="color:red">{{ error }}</div>
 
-    <div v-if="!todos.length">
-      추가된 Todo가 없습니다
+    <div v-if="!filteredTodos.length">
+      There is nothing to display
     </div>
-    <TodoList :todos="todos" @toggle-todo="toggleTodo" @delete-todo="deleteTodo" />
+    <TodoList :todos="filteredTodos" @toggle-todo="toggleTodo" @delete-todo="deleteTodo" />
   </div>
 </template>
 
@@ -18,6 +17,7 @@
 import { ref, computed } from 'vue';
 import TodoSimpleForm from './components/TodoSimpleForm.vue';
 import TodoList from './components/TodoList.vue';
+import axios from 'axios'
 
 export default {
   components: {
@@ -26,32 +26,83 @@ export default {
   },
   setup() {
     const todos = ref([]);
-    const addTodo = (todo) => {
-      todos.value.push(todo);
-    };
-    const deleteTodo = (index) => {
-      todos.value.splice(index, 1);
-    };
-    const toggleTodo = (index) => {
-      todos.value[index].complited = !todos.value[index].complited;
+    const error = ref('');
+
+    const getTodos = async () => {
+      try {
+        const res = await axios.get("http://localhost:3000/todos");
+        console.log(res.data);
+        todos.value = res.data;
+      } catch (err) {
+        console.log(err);
+      }
     };
 
-    const count = ref(1);
-    const doubleCountComputed = computed(() => {
-      return count.value * 2;
-    });
-    const doubleCountMethod = (() => {
-      return count.value * 2;
-    });
+    getTodos();
+
+    const addTodo = async (todo) => {
+      // 데이터베이스 todo를 저장
+      error.value = '';
+      try {
+        const res = await axios.post('http://localhost:3000/todos', {
+          subject: todo.subject,
+          completed: todo.completed,
+        });
+        console.log(res);
+        todos.value.push(res.data);
+      } catch (err) {
+        console.log(err);
+        error.value = 'Something went wrong.'
+      }
+
+    };
+    const deleteTodo = async (index) => {
+      error.value = '';
+      const id = todos.value[index].id
+      try {
+        const res = await axios.delete('http://localhost:3000/todos/' + id);
+        console.log(res);
+        todos.value.splice(index, 1);
+      } catch (err) {
+        console.log(err);
+        err.value = "Something went wrong";
+      }
+    };
+    const toggleTodo = async (index) => {
+      error.value = '';
+      const id = todos.value[index].id
+      try{
+        await axios.patch('http://localhost:3000/todos/' + id,{
+          completed: !todos.value[index].completed
+        });
+
+        todos.value[index].completed = !todos.value[index].completed;
+      }catch(err){
+        console.log(err);
+        err.value = "Something went wrong";
+      }
+      
+    };
+
+    const serachText = ref('');
+    const filteredTodos = computed(() => {
+      if (serachText.value) {
+        return todos.value.filter(todo => {
+          return todo.subject.includes(serachText.value);
+        });
+      }
+
+      return todos.value
+    })
 
     return {
       todos,
       addTodo,
       deleteTodo,
       toggleTodo,
-      count,
-      doubleCountComputed,
-      doubleCountMethod
+      serachText,
+      filteredTodos,
+      error,
     };
   }
 }
