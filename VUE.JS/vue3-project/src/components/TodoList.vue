@@ -3,13 +3,15 @@
         <div class="card-body p-2 d-flex align-items-center"
         @click="moveToPage(todo.id)">
             <div class="form-check flex-grow-1">
-                <input class="form-check-input" type="checkbox" :checked="todo.completed" @change="toggleTodo(index)">
+                <input class="form-check-input" type="checkbox" :checked="todo.completed" 
+                style="pointer"
+                @change="toggleTodo(index, $evnet)" @click.stop>
                 <label class="form-check-label" :class="{ todo: todo.completed }">
                     {{ todo.subject }}
                 </label>
             </div>
             <div>
-                <button class="btn btn-danger btn-sm" @click="deleteTodo(index)">Delete</button>
+                <button class="btn btn-danger btn-sm" @click.stop="deleteTodo(index)">Delete</button>
             </div>
 
         </div>
@@ -30,8 +32,8 @@ export default {
     setup(props, context) {
         const router = useRouter();
 
-        const toggleTodo = (index) => {
-            context.emit('toggle-todo', index);
+        const toggleTodo = (index. event) => {
+            context.emit('toggle-todo', index, event.target.checked);
         };
 
         const deleteTodo = (index) => {
