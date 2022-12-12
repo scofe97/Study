@@ -1,9 +1,0 @@
-# OS X
-.DS_Store
-
-# Python
-*.pyc
-*.pyo
-
-# Java
-*.class
