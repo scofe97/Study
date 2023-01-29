@@ -1,0 +1,41 @@
+{
+   "musics" : [
+      {
+        "track" : "Blank",
+        "streamUrl" : "https://ncsmusic.s3.eu-west-1.amazonaws.com/tracks/000/000/003/blank-1586945660-LPD2Fw7OZ0.mp3",
+        "artist" : "Disgigure",
+        "coverUrl" : "https://ncsmusic.s3.eu-west-1.amazonaws.com/tracks/000/000/003/100x100/blank-1586945658-bOQwSIyJEe.jpg"
+      },
+      {
+        "track" : "Life",
+        "streamUrl" : "https://ncsmusic.s3.eu-west-1.amazonaws.com/tracks/000/000/048/life-1586946089-u12N8yZWFV.mp3",
+        "artist" : "Tobu",
+        "coverUrl" : "https://ncsmusic.s3.eu-west-1.amazonaws.com/tracks/000/000/048/100x100/life-1586946087-uir7QcgrPF.jpg"
+      },
+            {
+        "track" : "Hope",
+        "streamUrl" : "https://ncsmusic.s3.eu-west-1.amazonaws.com/tracks/000/000/030/hope-1586945910-q5oWZ0T6lk.mp3",
+        "artist" : "Tobu",
+        "coverUrl" : "https://ncsmusic.s3.eu-west-1.amazonaws.com/tracks/000/000/030/100x100/hope-1586945908-5In1olhlGG.jpg"
+      },
+            {
+        "track" : "Overtime",
+        "streamUrl" : "https://drive.google.com/file/d/1R9JfoCfVniIQOGXZg9vkCDL2yNF8-Rbo/view?usp=sharing",
+        "artist" : "cash cash",
+        "coverUrl" : "https://ncsmusic.s3.eu-west-1.amazonaws.com/tracks/000/000/048/100x100/life-1586946087-uir7QcgrPF.jpg"
+      },
+            {
+        "track" : "They Watchin Me",
+        "streamUrl" : "https://ncsmusic.s3.eu-west-1.amazonaws.com/tracks/000/000/768/they-watchin-me-1597319321-rLRvMNcPDq.mp3",
+        "artist" : "Aleksei",
+        "coverUrl" : "https://ncsmusic.s3.eu-west-1.amazonaws.com/tracks/000/000/768/100x100/they-watchin-me-1597319318-J8LNSUGaZY.jpg"
+      },
+            {
+        "track" : "Be Around",
+        "streamUrl" : "https://ncsmusic.s3.eu-west-1.amazonaws.com/tracks/000/000/753/be-around-1597319226-BFfG4Q1aPy.mp3",
+        "artist" : "Blooom",
+        "coverUrl" : "https://ncsmusic.s3.eu-west-1.amazonaws.com/tracks/000/000/753/100x100/be-around-1597319223-ae5mOzmsBU.jpg"
+      }
+
+   ]
+}

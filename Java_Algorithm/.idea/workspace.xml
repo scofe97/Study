@@ -1,0 +1,569 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="efe06709-25b7-4f33-8443-6652a96d3766" name="Changes" comment="Changes">
+      <change afterPath="$PROJECT_DIR$/src/알고리즘/문제코드/SSAFY/수업_221013/Problem_D3_5607.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring/Spring_MVC1/servlet/src/main/java/hello/servlet/web/servlet/MemberFormServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring/Spring_MVC1/servlet/src/main/java/hello/servlet/web/servlet/MemberListServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring/Spring_MVC1/servlet/src/main/java/hello/servlet/web/servlet/MemberSaveServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring/Spring_MVC1/servlet/src/main/java/hello/servlet/web/servletmvc/MvcMemberFormServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring/Spring_MVC1/servlet/src/main/java/hello/servlet/web/servletmvc/MvcMemberListServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring/Spring_MVC1/servlet/src/main/java/hello/servlet/web/servletmvc/MvcMemberSaveServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring/Spring_MVC1/servlet/src/main/webapp/WEB-INF/views/members.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring/Spring_MVC1/servlet/src/main/webapp/WEB-INF/views/new-form.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring/Spring_MVC1/servlet/src/main/webapp/WEB-INF/views/save-result.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring/Spring_MVC1/servlet/src/main/webapp/jsp/members.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring/Spring_MVC1/servlet/src/main/webapp/jsp/members/new-form.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring/Spring_MVC1/servlet/src/main/webapp/jsp/members/save.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/Spring_MVC1/servlet/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring/Spring_MVC1/servlet/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/Spring_MVC1/servlet/src/main/webapp/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring/Spring_MVC1/servlet/src/main/webapp/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2BWPvk0pH0Faud6Klqg5X4UGaVn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "extract.method.default.visibility": "private",
+    "last_opened_file_path": "D:/study/Spring/Spring_MVC1/servlet",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "File.Encoding"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\study\Java_Algorithm\src\자바공부\모던자바" />
+      <recent name="D:\study\Java_Algorithm\src\알고리즘\문제코드\백준\싸피_스터디\연습3" />
+      <recent name="D:\study\Java_Algorithm\src\알고리즘\문제코드\백준\단계611_BFS" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\study\Java_Algorithm\src\자바공부\유튜브_라이브" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="알고리즘.문제코드.SSAFY.수업_221006" />
+      <recent name="알고리즘.문제코드.이론.LIS" />
+      <recent name="알고리즘.문제코드.SSAFY.수업_221005" />
+      <recent name="알고리즘.문제코드.백준" />
+      <recent name="알고리즘.문제코드.백준.싸피_스터디.연습3" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Problem_G4_15961">
+    <configuration name="Problem_4014" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="알고리즘.문제코드.SSAFY.수업_221011.Problem_4014" />
+      <module name="Java_Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="알고리즘.문제코드.SSAFY.수업_221011.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Problem_G4_15961" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="알고리즘.문제코드.SSAFY.수업_221011.Problem_G4_15961" />
+      <module name="Java_Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="알고리즘.문제코드.SSAFY.수업_221011.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Problem_G4_17471" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="알고리즘.문제코드.SSAFY.수업_221007.Problem_G4_17471" />
+      <module name="Java_Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="알고리즘.문제코드.SSAFY.수업_221007.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="findString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="알고리즘.문제코드.SSAFY.수업_221011.findString" />
+      <module name="Java_Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="알고리즘.문제코드.SSAFY.수업_221011.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="알고리즘.문제코드.SSAFY.수업_221011.test" />
+      <module name="Java_Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="알고리즘.문제코드.SSAFY.수업_221011.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Problem_G4_15961" />
+        <item itemvalue="Application.test" />
+        <item itemvalue="Application.findString" />
+        <item itemvalue="Application.Problem_4014" />
+        <item itemvalue="Application.Problem_G4_17471" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\scofe\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="efe06709-25b7-4f33-8443-6652a96d3766" name="Changes" comment="" />
+      <created>1657019103399</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1657019103399</updated>
+      <workItem from="1657019104820" duration="5109000" />
+      <workItem from="1657063914894" duration="8277000" />
+      <workItem from="1657105249254" duration="8849000" />
+      <workItem from="1657149707698" duration="5650000" />
+      <workItem from="1657167847283" duration="97000" />
+      <workItem from="1657168105829" duration="218000" />
+      <workItem from="1657193340155" duration="1432000" />
+      <workItem from="1657194795016" duration="55000" />
+      <workItem from="1657194861663" duration="28000" />
+      <workItem from="1657194901548" duration="7832000" />
+      <workItem from="1657273216420" duration="9593000" />
+      <workItem from="1657293798117" duration="19908000" />
+      <workItem from="1657450669031" duration="10387000" />
+      <workItem from="1657538004425" duration="10007000" />
+      <workItem from="1657625533880" duration="10852000" />
+      <workItem from="1657689512424" duration="755000" />
+      <workItem from="1657690509228" duration="268000" />
+      <workItem from="1657697095426" duration="66000" />
+      <workItem from="1657697613036" duration="10000" />
+      <workItem from="1657697835385" duration="6000" />
+      <workItem from="1657698046548" duration="2603000" />
+      <workItem from="1657810850892" duration="1864000" />
+      <workItem from="1657890946866" duration="2334000" />
+      <workItem from="1658025927148" duration="31406000" />
+      <workItem from="1658106926840" duration="4618000" />
+      <workItem from="1658140214392" duration="275000" />
+      <workItem from="1658142021525" duration="11890000" />
+      <workItem from="1658158927885" duration="6000" />
+      <workItem from="1658232089539" duration="4855000" />
+      <workItem from="1658320654443" duration="9375000" />
+      <workItem from="1658403330618" duration="9218000" />
+      <workItem from="1658495427592" duration="21543000" />
+      <workItem from="1658650833518" duration="12627000" />
+      <workItem from="1658666463101" duration="804000" />
+      <workItem from="1658719876478" duration="7893000" />
+      <workItem from="1658752345955" duration="2380000" />
+      <workItem from="1658836791649" duration="9369000" />
+      <workItem from="1658927929882" duration="3797000" />
+      <workItem from="1659014514317" duration="10215000" />
+      <workItem from="1659314266285" duration="25919000" />
+      <workItem from="1659441715736" duration="18830000" />
+      <workItem from="1659770897278" duration="5466000" />
+      <workItem from="1659881885910" duration="3392000" />
+      <workItem from="1659926309721" duration="8227000" />
+      <workItem from="1659968572153" duration="11615000" />
+      <workItem from="1661915835790" duration="3891000" />
+      <workItem from="1662131391191" duration="13000" />
+      <workItem from="1662208075662" duration="316000" />
+      <workItem from="1662267648660" duration="8042000" />
+      <workItem from="1662336365406" duration="24000" />
+      <workItem from="1662607823321" duration="2665000" />
+      <workItem from="1662793592787" duration="612000" />
+      <workItem from="1663001414901" duration="595000" />
+      <workItem from="1663041481905" duration="8605000" />
+      <workItem from="1663417580306" duration="15563000" />
+      <workItem from="1663570621232" duration="595000" />
+      <workItem from="1663981995470" duration="596000" />
+      <workItem from="1664020179411" duration="595000" />
+      <workItem from="1664121486843" duration="1629000" />
+      <workItem from="1664438046959" duration="4130000" />
+      <workItem from="1664449469218" duration="337000" />
+      <workItem from="1664627279467" duration="351000" />
+      <workItem from="1664846106066" duration="10532000" />
+      <workItem from="1664870885315" duration="3242000" />
+      <workItem from="1664927576892" duration="13957000" />
+      <workItem from="1664944900120" duration="216000" />
+      <workItem from="1664945131797" duration="5000" />
+      <workItem from="1664976714733" duration="2023000" />
+      <workItem from="1665028058296" duration="823000" />
+      <workItem from="1665028926517" duration="11741000" />
+      <workItem from="1665100516466" duration="5600000" />
+      <workItem from="1665459956464" duration="11272000" />
+      <workItem from="1665632396526" duration="638000" />
+      <workItem from="1665647232761" duration="2897000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/알고리즘/문제코드/사전학습/Problem_D2_1979.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/알고리즘/문제코드/사전학습/Problem_D2_1979.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/알고리즘/문제코드/사전학습/Problem_D2_1979.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/알고리즘/문제코드/사전학습/Problem_D2_1979.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/알고리즘/문제코드/사전학습/Problem_D2_1979.java</url>
+          <line>56</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/알고리즘/문제코드/사전학습/Problem_D2_1974.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/알고리즘/문제코드/사전학습/Problem_D2_1974.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/알고리즘/문제코드/사전학습/Problem_D2_1974.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/알고리즘/문제코드/사전학습/Problem_D2_1974.java</url>
+          <line>52</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/알고리즘/문제코드/개인SWEA/Problem_D3_14361.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/알고리즘/문제코드/사전학습/Problem_D4_1226.java</url>
+          <line>62</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/알고리즘/문제코드/사전학습/Problem_D4_1226.java</url>
+          <line>59</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/알고리즘/문제코드/사전학습/Problem_D4_1238.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/알고리즘/문제코드/사전학습/Problem_D5_1247.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/알고리즘/문제코드/사전학습/Problem_D5_1248.java</url>
+          <line>53</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/알고리즘/문제코드/사전학습/Problem_D5_1248.java</url>
+          <line>57</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/알고리즘/문제코드/백준/단계541_비트마스크/Problem_G4_1062.java</url>
+          <line>47</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/알고리즘/문제코드/백준/단계541_비트마스크/Problem_G1_13460.java</url>
+          <line>58</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/알고리즘/문제코드/백준/단계541_비트마스크/Problem_G1_13460.java</url>
+          <line>157</line>
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/알고리즘/문제코드/백준/단계541_비트마스크/Problem_G1_13460.java</url>
+          <line>91</line>
+          <option name="timeStamp" value="67" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/알고리즘/문제코드/백준/단계541_비트마스크/Problem_G1_13460.java</url>
+          <line>84</line>
+          <option name="timeStamp" value="68" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/알고리즘/문제코드/백준/단계541_비트마스크/Problem_G1_13460.java</url>
+          <line>81</line>
+          <option name="timeStamp" value="69" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/알고리즘/문제코드/백준/단계541_비트마스크/Problem_G1_13460.java</url>
+          <line>47</line>
+          <option name="timeStamp" value="71" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/알고리즘/문제코드/백준/단계541_비트마스크/Problem_G1_13460.java</url>
+          <line>59</line>
+          <option name="timeStamp" value="72" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/알고리즘/문제코드/백준/단계541_비트마스크/Problem_G2_12100.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="81" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/알고리즘/문제코드/백준/단계541_비트마스크/Problem_G2_12100.java</url>
+          <line>83</line>
+          <option name="timeStamp" value="84" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/알고리즘/문제코드/백준/단계541_비트마스크/Problem_G2_12100.java</url>
+          <line>116</line>
+          <option name="timeStamp" value="85" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/알고리즘/문제코드/백준/단계541_비트마스크/Problem_G2_12100.java</url>
+          <line>149</line>
+          <option name="timeStamp" value="86" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/알고리즘/문제코드/백준/단계611_BFS/Problem_G2_16946.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="96" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/알고리즘/문제코드/백준/단계611_BFS/Problem_G2_16946.java</url>
+          <line>80</line>
+          <option name="timeStamp" value="97" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/알고리즘/문제코드/백준/단계710_그리디/Problem_s1_1931.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="98" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/알고리즘/문제코드/백준/단계710_그리디/Problem_s1_1080.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="99" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/알고리즘/문제코드/백준/단계710_그리디/Problem_s1_1080.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="100" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/알고리즘/문제코드/백준/단계710_그리디/Problem_G1_2138.java</url>
+          <line>69</line>
+          <option name="timeStamp" value="110" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/알고리즘/문제코드/백준/단계710_그리디/Problem_G1_2138.java</url>
+          <line>63</line>
+          <option name="timeStamp" value="111" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/알고리즘/문제코드/백준/단계710_그리디/Problem_G1_2138.java</url>
+          <line>48</line>
+          <option name="timeStamp" value="113" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/알고리즘/문제코드/백준/단계710_그리디/Problem_G1_2138.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="114" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/알고리즘/문제코드/백준/단계710_그리디/Problem_G1_2138.java</url>
+          <line>75</line>
+          <option name="timeStamp" value="115" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/알고리즘/문제코드/백준/싸피_스터디/연습1/Problem_B2_5585.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="116" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/알고리즘/문제코드/백준/싸피_스터디/연습1/Problem_G5_2447.java</url>
+          <line>50</line>
+          <option name="timeStamp" value="118" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/알고리즘/문제코드/백준/단계611_BFS/Problem_G3_14442.java</url>
+          <line>68</line>
+          <option name="timeStamp" value="119" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/알고리즘/문제코드/백준/단계611_BFS/Problem_G3_14442.java</url>
+          <line>74</line>
+          <option name="timeStamp" value="120" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/알고리즘/문제코드/백준/단계710_그리디/Problem_G2_1285.java</url>
+          <line>94</line>
+          <option name="timeStamp" value="132" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/알고리즘/문제코드/백준/단계710_그리디/Problem_G2_1285.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="133" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/알고리즘/문제코드/SSAFY/수업문제/Problem_S3_1244.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="142" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/알고리즘/문제코드/SSAFY/수업문제/Problem_S3_1244.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="143" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/알고리즘/문제코드/SSAFY/수업문제/Problem_S3_1244.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="144" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/알고리즘/문제코드/백준/단계800_분할정복/Problem_S5_10815.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="146" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/알고리즘/문제코드/SSAFY/수업_221004/Problem_5656.java</url>
+          <line>77</line>
+          <option name="timeStamp" value="159" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/알고리즘/문제코드/SSAFY/수업_221004/Problem_G4_2239.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="160" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/알고리즘/문제코드/SSAFY/수업_221005/Problem_G1_17143.java</url>
+          <line>67</line>
+          <option name="timeStamp" value="171" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/알고리즘/문제코드/SSAFY/수업_221005/Problem_G1_17143.java</url>
+          <line>70</line>
+          <option name="timeStamp" value="172" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/알고리즘/문제코드/SSAFY/수업_221005/Problem_G1_1194.java</url>
+          <line>71</line>
+          <option name="timeStamp" value="178" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/알고리즘/문제코드/SSAFY/수업_221006/Problem_1263.java</url>
+          <line>47</line>
+          <option name="timeStamp" value="179" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/알고리즘/문제코드/SSAFY/수업_221006/Problem_S1_9205.java</url>
+          <line>51</line>
+          <option name="timeStamp" value="180" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/알고리즘/문제코드/SSAFY/수업_221007/Problem_G4_17471.java</url>
+          <line>70</line>
+          <option name="timeStamp" value="181" />
+        </line-breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="147" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="rec[i][j]" language="JAVA" />
+        <watch expression="((java.util.LinkedList)queue).get(92)" custom="java.util.LinkedList" />
+        <watch expression="((java.util.LinkedList)queue).get(1)" custom="java.util.LinkedList" />
+        <watch expression="queue" />
+        <watch expression="queue" />
+        <watch expression="queue" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

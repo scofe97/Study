@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3343cd09-9946-4c5a-9b9e-04004b461624" name="변경" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../Spring/JPA_BAISC/jpa_basic/src/main/java/com/example/jpabook/JpaTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Spring/JPA_BAISC/jpa_basic/src/main/java/com/example/jpabook/jpashop/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Spring/JPA_BAISC/jpa_basic/src/main/java/com/example/jpabook/jpashop/Album.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Spring/JPA_BAISC/jpa_basic/src/main/java/com/example/jpabook/jpashop/BaseEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Spring/JPA_BAISC/jpa_basic/src/main/java/com/example/jpabook/jpashop/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Spring/JPA_BAISC/jpa_basic/src/main/java/com/example/jpabook/jpashop/Child.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Spring/JPA_BAISC/jpa_basic/src/main/java/com/example/jpabook/jpashop/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Spring/JPA_BAISC/jpa_basic/src/main/java/com/example/jpabook/jpashop/Member.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Spring/JPA_BAISC/jpa_basic/src/main/java/com/example/jpabook/jpashop/MemberProduct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Spring/JPA_BAISC/jpa_basic/src/main/java/com/example/jpabook/jpashop/MemberRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Spring/JPA_BAISC/jpa_basic/src/main/java/com/example/jpabook/jpashop/Movie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Spring/JPA_BAISC/jpa_basic/src/main/java/com/example/jpabook/jpashop/Parent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Spring/JPA_BAISC/jpa_basic/src/main/java/com/example/jpabook/jpashop/Period.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Spring/JPA_BAISC/jpa_basic/src/main/java/com/example/jpabook/jpashop/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Spring/JPA_BAISC/jpa_basic/src/main/java/com/example/jpabook/jpashop/RoleType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Spring/JPA_BAISC/jpa_basic/src/main/java/com/example/jpabook/jpashop/Team.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Spring/JPA_BAISC/jpa_basic/src/main/java/com/example/jpabook/jpashop/mainJpa/Basic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Spring/JPA_BAISC/jpa_basic/src/main/java/com/example/jpabook/jpashop/mainJpa/Casccade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Spring/JPA_BAISC/jpa_basic/src/main/resources/META-INF/persistence.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Spring/JPA_BAISC/jpa_basic/src/test/java/com/example/jpabook/jpashop/MemberRepositoryTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Spring/JPA_Uses1/jpabook/src/main/java/com/example/jpabook/Hello.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Spring/JPA_Uses1/jpabook/src/main/java/com/example/jpabook/HelloController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Spring/JPA_Uses1/jpabook/src/main/java/com/example/jpabook/domain/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Spring/JPA_Uses1/jpabook/src/main/java/com/example/jpabook/domain/Category.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Spring/JPA_Uses1/jpabook/src/main/java/com/example/jpabook/domain/Delivery.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Spring/JPA_Uses1/jpabook/src/main/java/com/example/jpabook/domain/DeliveryStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Spring/JPA_Uses1/jpabook/src/main/java/com/example/jpabook/domain/Member.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Spring/JPA_Uses1/jpabook/src/main/java/com/example/jpabook/domain/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Spring/JPA_Uses1/jpabook/src/main/java/com/example/jpabook/domain/OrderItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Spring/JPA_Uses1/jpabook/src/main/java/com/example/jpabook/domain/OrderStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Spring/JPA_Uses1/jpabook/src/main/java/com/example/jpabook/domain/item/Album.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Spring/JPA_Uses1/jpabook/src/main/java/com/example/jpabook/domain/item/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Spring/JPA_Uses1/jpabook/src/main/java/com/example/jpabook/domain/item/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Spring/JPA_Uses1/jpabook/src/main/java/com/example/jpabook/domain/item/Movie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Spring/JPA_Uses1/jpabook/src/main/resources/static/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Spring/JPA_Uses1/jpabook/src/main/resources/templates/hello.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Spring/JPA_Uses1/jpabook/src/test/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Spring/REDIS/redis-basic/src/main/java/com/example/demo/DataDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Spring/REDIS/redis-basic/src/main/java/com/example/demo/RedisConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Spring/REDIS/redis-basic/src/main/java/com/example/demo/RedisSampleController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Spring/REDIS/redis-basic/src/main/java/com/example/demo/RedisSampleService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Spring/Spring_DB2/itemservice-db-start-do/src/main/java/hello/itemservice/config/QuerydslConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Spring/Spring_DB2/itemservice-db-start-do/src/main/java/hello/itemservice/config/V2Config.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Spring/Spring_DB2/itemservice-db-start-do/src/main/java/hello/itemservice/repository/jpa/JpaItemRepositoryV3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Spring/Spring_DB2/itemservice-db-start-do/src/main/java/hello/itemservice/repository/v2/ItemQueryRepositoryV2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Spring/Spring_DB2/itemservice-db-start-do/src/main/java/hello/itemservice/repository/v2/ItemRepositoryV2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Spring/Spring_DB2/springgtx-start/src/main/java/hello/springgtxstart/order/NotEnoughMoneyException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Spring/Spring_DB2/springgtx-start/src/main/java/hello/springgtxstart/order/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Spring/Spring_DB2/springgtx-start/src/main/java/hello/springgtxstart/order/OrderRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Spring/Spring_DB2/springgtx-start/src/main/java/hello/springgtxstart/order/OrderService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Spring/Spring_DB2/springgtx-start/src/test/java/hello/springgtxstart/apply/InitTxTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Spring/Spring_DB2/springgtx-start/src/test/java/hello/springgtxstart/apply/InternalCallV11Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Spring/Spring_DB2/springgtx-start/src/test/java/hello/springgtxstart/apply/InternalCallV1Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Spring/Spring_DB2/springgtx-start/src/test/java/hello/springgtxstart/apply/TxBasicTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Spring/Spring_DB2/springgtx-start/src/test/java/hello/springgtxstart/apply/TxLevelTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Spring/Spring_DB2/springgtx-start/src/test/java/hello/springgtxstart/exception/RollbackTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Spring/Spring_DB2/springgtx-start/src/test/java/hello/springgtxstart/order/OrderServiceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Grauate/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Grauate/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Grauate/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Grauate/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Grauate/.idea/deploymentTargetDropDown.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Grauate/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Grauate/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Grauate/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Grauate/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Grauate/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Grauate/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Grauate/app/google-services.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Grauate/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Grauate/app/release/app-release.apk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Grauate/app/release/output-metadata.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Grauate/app/src/androidTest/java/com/example/jatlin/ExampleInstrumentedTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Grauate/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Grauate/app/src/main/ic_launcher-playstore.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Grauate/app/src/main/java/com/example/jatlin/AppApplication.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Grauate/app/src/main/java/com/example/jatlin/DBKey.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Grauate/app/src/main/java/com/example/jatlin/data/PreferenceManager.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Grauate/app/src/main/java/com/example/jatlin/data/db/ProvideDB.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Grauate/app/src/main/java/com/example/jatlin/data/db/UserDao.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Grauate/app/src/main/java/com/example/jatlin/data/db/UserDatabase.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Grauate/app/src/main/java/com/example/jatlin/data/entity/ChatEntity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Grauate/app/src/main/java/com/example/jatlin/data/entity/ChatRoomEntity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Grauate/app/src/main/java/com/example/jatlin/data/entity/ProductEntity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Grauate/app/src/main/java/com/example/jatlin/data/entity/UserEntity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Grauate/app/src/main/java/com/example/jatlin/data/repository/DefaultFirebaseRepository.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Grauate/app/src/main/java/com/example/jatlin/data/repository/FirebaseRepository.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Grauate/app/src/main/java/com/example/jatlin/di/appModule.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Grauate/app/src/main/java/com/example/jatlin/domain/GetCurrentUserUseCase.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Grauate/app/src/main/java/com/example/jatlin/domain/InsertUserUseCase.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Grauate/app/src/main/java/com/example/jatlin/domain/UseCase.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Grauate/app/src/main/java/com/example/jatlin/extensions/ContextExtensions.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Grauate/app/src/main/java/com/example/jatlin/extensions/FloatExtensions.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Grauate/app/src/main/java/com/example/jatlin/extensions/ImageViewExtensions.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Grauate/app/src/main/java/com/example/jatlin/extensions/VIewExt.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Grauate/app/src/main/java/com/example/jatlin/presentation/BasePresenter.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Grauate/app/src/main/java/com/example/jatlin/presentation/BaseView.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Grauate/app/src/main/java/com/example/jatlin/presentation/MainActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Grauate/app/src/main/java/com/example/jatlin/presentation/chat/ChatAdapter.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Grauate/app/src/main/java/com/example/jatlin/presentation/chat/ChatContract.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Grauate/app/src/main/java/com/example/jatlin/presentation/chat/ChatFragment.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Grauate/app/src/main/java/com/example/jatlin/presentation/chat/ChatPresenter.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Grauate/app/src/main/java/com/example/jatlin/presentation/chat/detail/ChatDetailAdapter.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Grauate/app/src/main/java/com/example/jatlin/presentation/chat/detail/ChatDetailContract.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Grauate/app/src/main/java/com/example/jatlin/presentation/chat/detail/ChatDetailFragment.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Grauate/app/src/main/java/com/example/jatlin/presentation/chat/detail/ChatDetailPresenter.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Grauate/app/src/main/java/com/example/jatlin/presentation/login/LoginContract.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Grauate/app/src/main/java/com/example/jatlin/presentation/login/LoginFragment.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Grauate/app/src/main/java/com/example/jatlin/presentation/login/LoginPresenter.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Grauate/app/src/main/java/com/example/jatlin/presentation/product/ProductAdapter.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Grauate/app/src/main/java/com/example/jatlin/presentation/product/ProductContract.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Grauate/app/src/main/java/com/example/jatlin/presentation/product/ProductFragment.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Grauate/app/src/main/java/com/example/jatlin/presentation/product/ProductPresenter.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Grauate/app/src/main/java/com/example/jatlin/presentation/product/create/ProductCreateContract.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Grauate/app/src/main/java/com/example/jatlin/presentation/product/create/ProductCreateFragment.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Grauate/app/src/main/java/com/example/jatlin/presentation/product/create/ProductCreatePresenter.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Grauate/app/src/main/java/com/example/jatlin/presentation/product/detail/ProductDetailContract.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Grauate/app/src/main/java/com/example/jatlin/presentation/product/detail/ProductDetailFragment.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Grauate/app/src/main/java/com/example/jatlin/presentation/product/detail/ProductDetailPresenter.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Grauate/app/src/main/java/com/example/jatlin/presentation/product/viewpager/ViewPagerAdapter.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Grauate/app/src/main/java/com/example/jatlin/presentation/profile/ProfileContract.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Grauate/app/src/main/java/com/example/jatlin/presentation/profile/ProfileFragment.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Grauate/app/src/main/java/com/example/jatlin/presentation/profile/ProfilePresenter.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Grauate/app/src/main/res/drawable-v24/basic_profile.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Grauate/app/src/main/res/drawable-v24/bg_round_corner_8_black.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Grauate/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Grauate/app/src/main/res/drawable/background_corner_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Grauate/app/src/main/res/drawable/background_corner_highlight_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Grauate/app/src/main/res/drawable/button_favorite.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Grauate/app/src/main/res/drawable/ic_baseline_add_24.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Grauate/app/src/main/res/drawable/ic_baseline_chat_24.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Grauate/app/src/main/res/drawable/ic_baseline_delete_24.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Grauate/app/src/main/res/drawable/ic_baseline_home_24.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Grauate/app/src/main/res/drawable/ic_baseline_person_24.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Grauate/app/src/main/res/drawable/ic_favorite.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Grauate/app/src/main/res/drawable/ic_favorite_border.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Grauate/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Grauate/app/src/main/res/drawable/ic_round_edit_24.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Grauate/app/src/main/res/drawable/item_chat_me_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Grauate/app/src/main/res/drawable/item_chat_you_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Grauate/app/src/main/res/drawable/menu_bottom_selector_color.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Grauate/app/src/main/res/drawable/profile_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Grauate/app/src/main/res/font/notosans_bold.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Grauate/app/src/main/res/font/notosans_light.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Grauate/app/src/main/res/font/notosans_medium.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Grauate/app/src/main/res/font/notosans_regular.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Grauate/app/src/main/res/font/roboto_black.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Grauate/app/src/main/res/font/roboto_bold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Grauate/app/src/main/res/font/roboto_light.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Grauate/app/src/main/res/font/roboto_medium.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Grauate/app/src/main/res/font/roboto_regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Grauate/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Grauate/app/src/main/res/layout/fragment_chat.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Grauate/app/src/main/res/layout/fragment_chat_detail.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Grauate/app/src/main/res/layout/fragment_login.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Grauate/app/src/main/res/layout/fragment_product.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Grauate/app/src/main/res/layout/fragment_product_create.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Grauate/app/src/main/res/layout/fragment_product_detail.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Grauate/app/src/main/res/layout/fragment_profile.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Grauate/app/src/main/res/layout/item_chat_me.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Grauate/app/src/main/res/layout/item_chat_room.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Grauate/app/src/main/res/layout/item_chat_you.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Grauate/app/src/main/res/layout/item_product.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Grauate/app/src/main/res/layout/item_viewpager.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Grauate/app/src/main/res/menu/menu_bottom_navigation.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Grauate/app/src/main/res/menu/menu_update_delete_toolbar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Grauate/app/src/main/res/menu/munu_sub_toolbar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Grauate/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Grauate/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Grauate/app/src/main/res/mipmap-hdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Grauate/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Grauate/app/src/main/res/mipmap-mdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Grauate/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Grauate/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Grauate/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Grauate/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Grauate/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Grauate/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Grauate/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Grauate/app/src/main/res/navigation/nav_graph.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Grauate/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Grauate/app/src/main/res/values/drawable/ic_baseline_chat_24.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Grauate/app/src/main/res/values/drawable/ic_baseline_dashboard_24.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Grauate/app/src/main/res/values/drawable/ic_baseline_home_24.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Grauate/app/src/main/res/values/drawable/ic_baseline_person_24.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Grauate/app/src/main/res/values/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Grauate/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Grauate/app/src/main/res/values/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Grauate/app/src/test/java/com/example/jatlin/ExampleUnitTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Grauate/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Grauate/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Grauate/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Grauate/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Grauate/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Grauate/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Grauate/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Spring/Spring_DB2/itemservice-db-start-do/src/main/java/hello/itemservice/ItemServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Spring/Spring_DB2/itemservice-db-start-do/src/main/java/hello/itemservice/ItemServiceApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Spring/Spring_DB2/itemservice-db-start-do/src/main/java/hello/itemservice/TestDataInit.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Spring/Spring_DB2/itemservice-db-start-do/src/main/java/hello/itemservice/TestDataInit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../python_study/test.html" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="2JRpNDalq4RWlfLZwzqGMzHPF0n" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/study/React/react-complete-guide/react-complete__http2",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="디폴트 작업">
+      <changelist id="3343cd09-9946-4c5a-9b9e-04004b461624" name="변경" comment="" />
+      <created>1672050707452</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1672050707452</updated>
+      <workItem from="1672050708512" duration="45000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

@@ -1,0 +1,1 @@
+insert into board   (user_id, subject, content, hit, register_time)   values (?, ?, ?, 0,   now())            insert into file_info (article_no, save_folder, original_file, save_file)   values   (?, ?, ?, {fileInfos.saveFile})    ,    insert into file_info (article_no, save_folder, original_file, save_file)   values   (?, ?, ?, {fileInfos.saveFile})
