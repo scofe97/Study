@@ -10,6 +10,8 @@ import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.multipart.MultipartFile;
 
 import javax.servlet.http.HttpServletRequest;
+import java.io.File;
+import java.io.IOException;
 
 @Slf4j
 @Controller
@@ -27,7 +29,21 @@ public class SpringUploadController {
     @PostMapping("/upload")
     public String saveFile(@RequestParam String itemName,
                            @RequestParam MultipartFile file,
-                           HttpServletRequest request){
+                           HttpServletRequest request) throws IOException {
+
+        log.info("request={}", request);
+        log.info("itemName={}", itemName);
+        log.info("multipartFile={}", file);
+
+        if(!file.isEmpty()){
+
+
+            String filePath = fileDir + file.getOriginalFilename();
+            log.info("파일 저장 fullPath={}", filePath);
+            file.transferTo(new File(filePath));
+        }
+
+        return "upload-form";
 
     }
 }

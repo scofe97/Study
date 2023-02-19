@@ -1,0 +1,57 @@
+server:
+  port: 8080
+  servlet:
+    context-path: /
+    encoding:
+      charset: UTF-8
+      enabled: true
+      force: true
+
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/security?serverTimezone=Asia/Seoul
+    username: cos
+    password: cos1234
+
+  jpa:
+    hibernate:
+      ddl-auto: update #create update none
+      naming:
+        physical-strategy: org.hibernate.boot.model.naming.PhysicalNamingStrategyStandardImpl
+    show-sql: true
+
+  security:
+    oauth2:
+      client:
+        registration:
+          google:
+            client-id: 30818697785-7oraok4rh34lkjuig9deo0tcttcsi6vv.apps.googleusercontent.com
+            client-secret: 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
+            scope:
+            - email
+            - profile
+
+          facebook:
+            client-id: 734566231496782
+            client-secret: 2bdcf7613d57487b1d16cbdfcfc865ce
+            scope:
+              - email
+              - public_profile
+
+          naver:
+            client-id: C7nzNRT7LFWdCUeF64cG
+            client-secret: IfWvyrpgaT
+            scope:
+            - name
+            - email
+            client-name: Naver
+            authorization-grant-type: authorization_code
+            redirect-uri: http://localhost:8080/login/oauth2/code/naver
+
+        provider:
+          naver:
+            authorization-uri: https://nid.naver.com/oauth2.0/authorize
+            token-uri: https://nid.naver.com/oauth2.0/token
+            user-info-uri: https://openapi.naver.com/v1/nid/me
+            user-name-attribute: response # ????? json? response ???? ????.
