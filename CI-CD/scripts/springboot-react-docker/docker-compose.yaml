@@ -1,0 +1,72 @@
+version: '3.8'
+services:
+
+  # nginx
+  nginx:
+    container_name: nginx
+    image: nginx:latest
+    restart: always
+    volumes:
+      - ./conf/:/etc/nginx/conf.d
+      - /data/certbot/conf:/etc/letsencrypt
+      - /data/certbot/www:/var/www/certbot
+    ports:
+      - 80:80
+      - 443:443
+    depends_on:
+      - web
+      - react
+      - mysql
+
+  # springboot
+  web:
+    container_name: back
+    build:
+      context: ./back_pjt
+      dockerfile: Dockerfile
+    expose:
+      - 8088
+    ports:
+      - 8088:8088
+
+  # springboot
+  auth:
+    container_name: auth
+    build:
+      context: ./auth
+      dockerfile: Dockerfile
+    expose:
+      - 8090
+    ports:
+      - 8090:8090
+    volumes:
+      - type: bind
+        source: ./secret
+        target: /secret
+
+  # react
+  react:
+    container_name: front
+    build:
+      context: ./front_pjt
+      dockerfile: Dockerfile
+    expose:
+      - 3000
+
+  # mysql
+  mysql:
+    container_name: db-mysql
+    image: mysql:latest
+    expose:
+      - 3306
+    ports:
+      - 3306:3306
+    volumes:
+      - type: bind
+        source: /mysql/mydb
+        target: /var/lib/mysql
+    environment:
+      - MYSQL_DATABASE=$MYSQL_DATABASE
+      - MYSQL_ROOT_PASSWORD=$MYSQL_ROOT_PASSWORD
+      - MYSQL_USER=$MYSQL_USER
+      - MYSQL_PASSWORD=$MYSQL_PASSWORD
