@@ -5,9 +5,10 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:ReserveRoom"
         xmlns:wpfApp1="clr-namespace:WpfApp1"
+        xmlns:view="clr-namespace:WpfApp1.View"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        <wpfApp1:MakeReservationsView />
+        <view:MakeReservationView />
     </Grid>
 </Window>

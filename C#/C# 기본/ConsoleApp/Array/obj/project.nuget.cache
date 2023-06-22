@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "3oPboducbRsozyLIUSuXJQ43IilgqXsN4/c2E99kmbjJWrTeg6CfekkSoGzCkDWJsTQuO4Yw2xApMgvI43xwIQ==",
+  "success": true,
+  "projectFilePath": "D:\\study\\C#\\C# 기본\\ConsoleApp\\Array\\Array.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\scofe\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.15\\microsoft.netcore.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\scofe\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.15\\microsoft.windowsdesktop.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\scofe\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.15\\microsoft.aspnetcore.app.ref.6.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

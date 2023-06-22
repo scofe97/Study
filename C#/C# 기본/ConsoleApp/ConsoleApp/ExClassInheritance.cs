@@ -24,7 +24,7 @@ class RecueRobot : Robot
     }
 }
 
-public class ExClass
+public class ExClassInheritance
 {
     public static void PrintClass()
     {

@@ -1,0 +1,12 @@
+D:\study\C#\C# 기본\ConsoleApp\String\bin\Debug\net6.0\String.deps.json
+D:\study\C#\C# 기본\ConsoleApp\String\bin\Debug\net6.0\String.dll
+D:\study\C#\C# 기본\ConsoleApp\String\bin\Debug\net6.0\String.pdb
+D:\study\C#\C# 기본\ConsoleApp\String\obj\Debug\net6.0\String.csproj.AssemblyReference.cache
+D:\study\C#\C# 기본\ConsoleApp\String\obj\Debug\net6.0\String.GeneratedMSBuildEditorConfig.editorconfig
+D:\study\C#\C# 기본\ConsoleApp\String\obj\Debug\net6.0\String.AssemblyInfoInputs.cache
+D:\study\C#\C# 기본\ConsoleApp\String\obj\Debug\net6.0\String.AssemblyInfo.cs
+D:\study\C#\C# 기본\ConsoleApp\String\obj\Debug\net6.0\String.csproj.CoreCompileInputs.cache
+D:\study\C#\C# 기본\ConsoleApp\String\obj\Debug\net6.0\String.dll
+D:\study\C#\C# 기본\ConsoleApp\String\obj\Debug\net6.0\refint\String.dll
+D:\study\C#\C# 기본\ConsoleApp\String\obj\Debug\net6.0\String.pdb
+D:\study\C#\C# 기본\ConsoleApp\String\obj\Debug\net6.0\ref\String.dll

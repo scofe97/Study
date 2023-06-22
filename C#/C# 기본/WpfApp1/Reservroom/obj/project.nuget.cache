@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "zjsM2xzi3Em54m+PNfP317gHHcjaax6wOpedzZznSvoJs68GjpavnWrkf3nROK3zEPeXNz5YVSrkHypvAy59nQ==",
+  "success": true,
+  "projectFilePath": "D:\\study\\C#\\C# 기본\\WpfApp1\\Reservroom\\Reservroom.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\scofe\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.15\\microsoft.netcore.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\scofe\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.15\\microsoft.windowsdesktop.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\scofe\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.15\\microsoft.aspnetcore.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\scofe\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.15\\microsoft.netcore.app.host.win-x64.6.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

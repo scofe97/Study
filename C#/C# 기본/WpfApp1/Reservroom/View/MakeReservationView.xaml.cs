@@ -2,9 +2,9 @@ using System.Windows.Controls;
 
 namespace WpfApp1.View;
 
-public partial class MakeReservationViwe : UserControl
+public partial class MakeReservationView : UserControl
 {
-    public MakeReservationViwe()
+    public MakeReservationView()
     {
         InitializeComponent();
     }

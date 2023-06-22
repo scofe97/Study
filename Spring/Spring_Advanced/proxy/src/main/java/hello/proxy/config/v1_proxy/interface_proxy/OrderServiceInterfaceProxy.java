@@ -17,6 +17,7 @@ public class OrderServiceInterfaceProxy implements OrderServiceV1 {
 
         try {
             status = logTrace.begin("OrderService.orderItem()");
+
             // target 호출
             target.orderItem(itemId);
             logTrace.end(status);

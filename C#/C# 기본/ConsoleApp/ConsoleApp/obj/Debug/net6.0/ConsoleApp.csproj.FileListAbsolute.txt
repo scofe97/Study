@@ -1,0 +1,15 @@
+D:\study\C#\C# 기본\ConsoleApp\ConsoleApp\bin\Debug\net6.0\ConsoleApp.exe
+D:\study\C#\C# 기본\ConsoleApp\ConsoleApp\bin\Debug\net6.0\ConsoleApp.deps.json
+D:\study\C#\C# 기본\ConsoleApp\ConsoleApp\bin\Debug\net6.0\ConsoleApp.runtimeconfig.json
+D:\study\C#\C# 기본\ConsoleApp\ConsoleApp\bin\Debug\net6.0\ConsoleApp.dll
+D:\study\C#\C# 기본\ConsoleApp\ConsoleApp\bin\Debug\net6.0\ConsoleApp.pdb
+D:\study\C#\C# 기본\ConsoleApp\ConsoleApp\obj\Debug\net6.0\ConsoleApp.csproj.AssemblyReference.cache
+D:\study\C#\C# 기본\ConsoleApp\ConsoleApp\obj\Debug\net6.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\study\C#\C# 기본\ConsoleApp\ConsoleApp\obj\Debug\net6.0\ConsoleApp.AssemblyInfoInputs.cache
+D:\study\C#\C# 기본\ConsoleApp\ConsoleApp\obj\Debug\net6.0\ConsoleApp.AssemblyInfo.cs
+D:\study\C#\C# 기본\ConsoleApp\ConsoleApp\obj\Debug\net6.0\ConsoleApp.csproj.CoreCompileInputs.cache
+D:\study\C#\C# 기본\ConsoleApp\ConsoleApp\obj\Debug\net6.0\ConsoleApp.dll
+D:\study\C#\C# 기본\ConsoleApp\ConsoleApp\obj\Debug\net6.0\refint\ConsoleApp.dll
+D:\study\C#\C# 기본\ConsoleApp\ConsoleApp\obj\Debug\net6.0\ConsoleApp.pdb
+D:\study\C#\C# 기본\ConsoleApp\ConsoleApp\obj\Debug\net6.0\ConsoleApp.genruntimeconfig.cache
+D:\study\C#\C# 기본\ConsoleApp\ConsoleApp\obj\Debug\net6.0\ref\ConsoleApp.dll
