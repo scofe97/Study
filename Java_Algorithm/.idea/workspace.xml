@@ -5,492 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="efe06709-25b7-4f33-8443-6652a96d3766" name="Changes" comment="Changes">
-      <change afterPath="$PROJECT_DIR$/src/알고리즘/문제코드/Eleven/queue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/알고리즘/문제코드/Eleven/stack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/알고리즘/문제코드/Eleven/test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring/Spring_Advanced/proxy/src/main/java/hello/proxy/config/v1_proxy/ConcreteProxyConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring/Spring_Advanced/proxy/src/main/java/hello/proxy/config/v1_proxy/concrete_proxy/OrderControllerConcreteProxy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring/Spring_Advanced/proxy/src/main/java/hello/proxy/config/v1_proxy/concrete_proxy/OrderRepositoryConcreteProxy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring/Spring_Advanced/proxy/src/main/java/hello/proxy/config/v1_proxy/concrete_proxy/OrderServiceConcreteProxy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring/Spring_Advanced/proxy/src/test/java/hello/proxy/jdkdynamic/JdkDynamicProxyTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring/Spring_Advanced/proxy/src/test/java/hello/proxy/jdkdynamic/ReflectionTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring/Spring_Advanced/proxy/src/test/java/hello/proxy/jdkdynamic/code/AImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring/Spring_Advanced/proxy/src/test/java/hello/proxy/jdkdynamic/code/AInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring/Spring_Advanced/proxy/src/test/java/hello/proxy/jdkdynamic/code/BImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring/Spring_Advanced/proxy/src/test/java/hello/proxy/jdkdynamic/code/BInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring/Spring_Advanced/proxy/src/test/java/hello/proxy/jdkdynamic/code/TimeInvocationHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring/Spring_Advanced/proxy/src/test/java/hello/proxy/pureproxy/concreteproxy/ConcreteProxyTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring/Spring_Advanced/proxy/src/test/java/hello/proxy/pureproxy/concreteproxy/code/ConcreteClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring/Spring_Advanced/proxy/src/test/java/hello/proxy/pureproxy/concreteproxy/code/ConcreteLogic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring/Spring_Advanced/proxy/src/test/java/hello/proxy/pureproxy/concreteproxy/code/TimeProxy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../C#/C# 기본/ConsoleApp/ConsoleApp/Array.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../C#/C# 기본/ConsoleApp/ConsoleApp/Array.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../C#/C# 기본/ConsoleApp/ConsoleApp/ExClassBasic.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../C#/C# 기본/ConsoleApp/ConsoleApp/ExClassBasic.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../C#/C# 기본/ConsoleApp/ConsoleApp/ExClassConstructor.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../C#/C# 기본/ConsoleApp/ConsoleApp/ExClassConstructor.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../C#/C# 기본/ConsoleApp/ConsoleApp/ExClassInheritance.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../C#/C# 기본/ConsoleApp/ConsoleApp/ExClassInheritance.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../C#/C# 기본/ConsoleApp/ConsoleApp/ExCollection.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../C#/C# 기본/ConsoleApp/ConsoleApp/ExCollection.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../C#/C# 기본/ConsoleApp/ConsoleApp/ExEnum.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../C#/C# 기본/ConsoleApp/ConsoleApp/ExEnum.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../C#/C# 기본/ConsoleApp/ConsoleApp/ExEvent.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../C#/C# 기본/ConsoleApp/ConsoleApp/ExEvent.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../C#/C# 기본/ConsoleApp/ConsoleApp/ExIfFor.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../C#/C# 기본/ConsoleApp/ConsoleApp/ExIfFor.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../C#/C# 기본/ConsoleApp/ConsoleApp/ExString.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../C#/C# 기본/ConsoleApp/ConsoleApp/ExString.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../C#/C# 기본/ConsoleApp/ConsoleApp/ExYield.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../C#/C# 기본/ConsoleApp/ConsoleApp/ExYield.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../C#/C# 기본/ConsoleApp/ConsoleApp/Variable.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../C#/C# 기본/ConsoleApp/ConsoleApp/Variable.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../C#/C# 기본/WpfApp1/Reservroom/Exception/ReservationConflictException.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../C#/C# 기본/WpfApp1/Reservroom/Exception/ReservationConflictException.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../C#/C# 기본/WpfApp1/Reservroom/MainWindow.xaml" beforeDir="false" afterPath="$PROJECT_DIR$/../C#/C# 기본/WpfApp1/Reservroom/MainWindow.xaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../C#/C# 기본/WpfApp1/Reservroom/Models/Hotel.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../C#/C# 기본/WpfApp1/Reservroom/Models/Hotel.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../C#/C# 기본/WpfApp1/Reservroom/Models/Reservation.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../C#/C# 기본/WpfApp1/Reservroom/Models/Reservation.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../C#/C# 기본/WpfApp1/Reservroom/Models/ReservationBook.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../C#/C# 기본/WpfApp1/Reservroom/Models/ReservationBook.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../C#/C# 기본/WpfApp1/Reservroom/Models/RoomID.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../C#/C# 기본/WpfApp1/Reservroom/Models/RoomID.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../C#/C# 기본/WpfApp1/Reservroom/View/MakeReservationView.xaml" beforeDir="false" afterPath="$PROJECT_DIR$/../C#/C# 기본/WpfApp1/Reservroom/View/MakeReservationView.xaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../C#/C# 기본/WpfApp1/Reservroom/View/MakeReservationView.xaml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../C#/C# 기본/WpfApp1/Reservroom/View/MakeReservationView.xaml.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../C#/C# 기본/WpfApp1/Reservroom/bin/Debug/net6.0-windows/Reservroom.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../C#/C# 기본/WpfApp1/Reservroom/bin/Debug/net6.0-windows/Reservroom.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../C#/C# 기본/WpfApp1/Reservroom/bin/Debug/net6.0-windows/Reservroom.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../C#/C# 기본/WpfApp1/Reservroom/bin/Debug/net6.0-windows/Reservroom.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/알고리즘/문제코드/Eleven/stack2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/알고리즘/문제코드/Eleven/stack3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring/Spring_Advanced/proxy/src/main/java/hello/proxy/config/v3_proxyfactory/ProxyFactoryConfigV1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring/Spring_Advanced/proxy/src/main/java/hello/proxy/config/v3_proxyfactory/ProxyFactoryConfigV2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring/Spring_Advanced/proxy/src/main/java/hello/proxy/config/v3_proxyfactory/advice/LogTraceAdvice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring/Spring_Advanced/proxy/src/test/java/hello/proxy/advisor/MultiAdvisorTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/알고리즘/문제코드/Eleven/stack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/알고리즘/문제코드/Eleven/stack.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../React/react-complete-guide/react-complete__router/react-router-6.4-intro" beforeDir="false" afterPath="$PROJECT_DIR$/../React/react-complete-guide/react-complete__router/react-router-6.4-intro" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_Advanced/advanced/src/main/java/hello/advanced/app/v0/v1/OrderControllerV1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring/Spring_Advanced/advanced/src/main/java/hello/advanced/app/v1/OrderControllerV1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_Advanced/advanced/src/main/java/hello/advanced/app/v0/v1/OrderRepositoryV1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring/Spring_Advanced/advanced/src/main/java/hello/advanced/app/v1/OrderRepositoryV1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_Advanced/advanced/src/main/java/hello/advanced/app/v0/v1/OrderServiceV1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring/Spring_Advanced/advanced/src/main/java/hello/advanced/app/v1/OrderServiceV1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Spring/Spring_Advanced/proxy/src/main/java/hello/proxy/ProxyApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring/Spring_Advanced/proxy/src/main/java/hello/proxy/ProxyApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_Advanced/proxy/src/main/java/hello/proxy/config/AppV2Config.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring/Spring_Advanced/proxy/src/main/java/hello/proxy/config/AppV2Config.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_Advanced/proxy/src/main/java/hello/proxy/config/v1_proxy/interface_proxy/OrderControllerInterfaceProxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring/Spring_Advanced/proxy/src/main/java/hello/proxy/config/v1_proxy/interface_proxy/OrderControllerInterfaceProxy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_Advanced/proxy/src/main/java/hello/proxy/config/v1_proxy/interface_proxy/OrderRepositoryInterfaceProxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring/Spring_Advanced/proxy/src/main/java/hello/proxy/config/v1_proxy/interface_proxy/OrderRepositoryInterfaceProxy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_Advanced/proxy/src/main/java/hello/proxy/config/v1_proxy/interface_proxy/OrderServiceInterfaceProxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring/Spring_Advanced/proxy/src/main/java/hello/proxy/config/v1_proxy/interface_proxy/OrderServiceInterfaceProxy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/.idea/Spring_final.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/actuator/.gradle/7.6/checksums/checksums.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/actuator/.gradle/7.6/checksums/md5-checksums.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/actuator/.gradle/7.6/checksums/sha1-checksums.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/actuator/.gradle/7.6/dependencies-accessors/dependencies-accessors.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/actuator/.gradle/7.6/dependencies-accessors/gc.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/actuator/.gradle/7.6/executionHistory/executionHistory.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/actuator/.gradle/7.6/executionHistory/executionHistory.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/actuator/.gradle/7.6/fileChanges/last-build.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/actuator/.gradle/7.6/fileHashes/fileHashes.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/actuator/.gradle/7.6/fileHashes/fileHashes.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/actuator/.gradle/7.6/fileHashes/resourceHashesCache.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/actuator/.gradle/7.6/gc.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/actuator/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/actuator/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/actuator/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/actuator/.gradle/file-system.probe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/actuator/.gradle/vcs-1/gc.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/actuator/HELP.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/actuator/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/actuator/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/actuator/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/actuator/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/actuator/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/actuator/settings.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/actuator/src/main/java/hello/ActuatorApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/actuator/src/main/java/hello/controller/LogController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/actuator/src/main/java/hello/controller/OrderController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/actuator/src/main/java/hello/controller/TrafficController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/actuator/src/main/java/hello/order/OrderService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/actuator/src/main/java/hello/order/gauge/StockConfigV1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/actuator/src/main/java/hello/order/gauge/StockConfigV2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/actuator/src/main/java/hello/order/v0/OrderConfigV0.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/actuator/src/main/java/hello/order/v0/OrderServiceV0.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/actuator/src/main/java/hello/order/v1/OrderConfigV1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/actuator/src/main/java/hello/order/v1/OrderServiceV1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/actuator/src/main/java/hello/order/v2/OrderConfigV2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/actuator/src/main/java/hello/order/v2/OrderServiceV2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/actuator/src/main/java/hello/order/v3/OrderConfigV3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/actuator/src/main/java/hello/order/v3/OrderServiceV3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/actuator/src/main/java/hello/order/v4/OrderConfigV4.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/actuator/src/main/java/hello/order/v4/OrderServiceV4.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/actuator/src/main/resources/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/actuator/src/test/java/hello/ActuatorApplicationTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/autoconfig/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/autoconfig/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/autoconfig/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/autoconfig/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/autoconfig/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/autoconfig/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/autoconfig/settings.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/autoconfig/src/main/java/hello/AutoConfigApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/autoconfig/src/main/java/hello/config/DbConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/autoconfig/src/main/java/hello/config/MemoryConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/autoconfig/src/main/java/hello/member/Member.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/autoconfig/src/main/java/hello/member/MemberRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/autoconfig/src/main/java/memory/Memory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/autoconfig/src/main/java/memory/MemoryCondition.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/autoconfig/src/main/java/memory/MemoryController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/autoconfig/src/main/java/memory/MemoryFinder.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/autoconfig/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/autoconfig/src/test/java/hello/AutoConfigApplicationTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/autoconfig/src/test/java/hello/config/DbConfigTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/autoconfig/src/test/java/hello/member/MemberRepositoryTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/autoconfig/src/test/java/hello/selector/HelloBean.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/autoconfig/src/test/java/hello/selector/HelloConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/autoconfig/src/test/java/hello/selector/HelloImportSelector.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/autoconfig/src/test/java/hello/selector/ImportSelectorTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/boot/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/boot/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/boot/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/boot/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/boot/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/boot/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/boot/settings.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/boot/src/main/java/hello/boot/BootApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/boot/src/main/java/hello/boot/controller/HelloController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/boot/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/boot/src/test/java/hello/boot/BootApplicationTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/embed/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/embed/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/embed/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/embed/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/embed/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/embed/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/embed/settings.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/embed/src/main/java/hello/MySpringBootMain.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/embed/src/main/java/hello/boot/MySpringApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/embed/src/main/java/hello/boot/MySpringBootApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/embed/src/main/java/hello/embed/EmbedTomcatServletMain.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/embed/src/main/java/hello/embed/EmbedTomcatSpringMain.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/embed/src/main/java/hello/servlet/HelloServlet.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/embed/src/main/java/hello/spring/HelloConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/embed/src/main/java/hello/spring/HelloController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/external-read/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/external-read/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/external-read/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/external-read/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/external-read/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/external-read/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/external-read/settings.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/external-read/src/main/java/hello/ExternalReadApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/external-read/src/main/java/hello/config/MyDataSourceConfigV1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/external-read/src/main/java/hello/config/MyDataSourceConfigV2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/external-read/src/main/java/hello/config/MyDataSourceConfigV3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/external-read/src/main/java/hello/config/MyDataSourceEnvConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/external-read/src/main/java/hello/config/MyDataSourceValueConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/external-read/src/main/java/hello/datasource/MyDataSource.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/external-read/src/main/java/hello/datasource/MyDataSourcePropertiesV1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/external-read/src/main/java/hello/datasource/MyDataSourcePropertiesV2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/external-read/src/main/java/hello/datasource/MyDataSourcePropertiesV3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/external-read/src/main/java/hello/pay/LocalPayClient.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/external-read/src/main/java/hello/pay/OrderRunner.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/external-read/src/main/java/hello/pay/OrderService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/external-read/src/main/java/hello/pay/PayClient.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/external-read/src/main/java/hello/pay/PayConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/external-read/src/main/java/hello/pay/ProdPayClient.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/external-read/src/main/resources/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/external-read/src/main/resources/application_backup.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/external-read/src/test/java/hello/ExternalReadApplicationTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/external/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/external/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/external/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/external/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/external/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/external/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/external/settings.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/external/src/main/java/hello/CommandLineBean.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/external/src/main/java/hello/EnvironmentCheck.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/external/src/main/java/hello/ExternalApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/external/src/main/resources/application-dev.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/external/src/main/resources/application-prod.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/external/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/external/src/test/java/hello/ExternalApplicationTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/external/src/test/java/hello/external/CommandLineV1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/external/src/test/java/hello/external/CommandLineV2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/external/src/test/java/hello/external/JavaSystemProperties.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/external/src/test/java/hello/external/OsEnv.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/lib/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/lib/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/lib/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/lib/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/lib/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/lib/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/lib/settings.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/lib/src/main/java/hello/LibApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/lib/src/main/java/hello/controller/HelloController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/lib/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/lib/src/test/java/hello/nostarter/NoStarterApplicationTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/memory/memory-v1/.gradle/7.4/checksums/checksums.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/memory/memory-v1/.gradle/7.4/checksums/md5-checksums.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/memory/memory-v1/.gradle/7.4/checksums/sha1-checksums.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/memory/memory-v1/.gradle/7.4/dependencies-accessors/dependencies-accessors.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/memory/memory-v1/.gradle/7.4/dependencies-accessors/gc.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/memory/memory-v1/.gradle/7.4/executionHistory/executionHistory.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/memory/memory-v1/.gradle/7.4/executionHistory/executionHistory.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/memory/memory-v1/.gradle/7.4/fileChanges/last-build.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/memory/memory-v1/.gradle/7.4/fileHashes/fileHashes.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/memory/memory-v1/.gradle/7.4/fileHashes/fileHashes.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/memory/memory-v1/.gradle/7.4/fileHashes/resourceHashesCache.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/memory/memory-v1/.gradle/7.4/gc.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/memory/memory-v1/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/memory/memory-v1/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/memory/memory-v1/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/memory/memory-v1/.gradle/file-system.probe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/memory/memory-v1/.gradle/vcs-1/gc.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/memory/memory-v1/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/memory/memory-v1/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/memory/memory-v1/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/memory/memory-v1/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/memory/memory-v1/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/memory/memory-v1/settings.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/memory/memory-v1/src/main/java/memory/Memory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/memory/memory-v1/src/main/java/memory/MemoryController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/memory/memory-v1/src/main/java/memory/MemoryFinder.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/memory/memory-v1/src/test/java/memory/MemoryFinderTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/memory/memory-v2/.gradle/7.4/checksums/checksums.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/memory/memory-v2/.gradle/7.4/checksums/md5-checksums.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/memory/memory-v2/.gradle/7.4/checksums/sha1-checksums.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/memory/memory-v2/.gradle/7.4/dependencies-accessors/dependencies-accessors.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/memory/memory-v2/.gradle/7.4/dependencies-accessors/gc.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/memory/memory-v2/.gradle/7.4/executionHistory/executionHistory.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/memory/memory-v2/.gradle/7.4/executionHistory/executionHistory.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/memory/memory-v2/.gradle/7.4/fileChanges/last-build.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/memory/memory-v2/.gradle/7.4/fileHashes/fileHashes.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/memory/memory-v2/.gradle/7.4/fileHashes/fileHashes.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/memory/memory-v2/.gradle/7.4/fileHashes/resourceHashesCache.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/memory/memory-v2/.gradle/7.4/gc.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/memory/memory-v2/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/memory/memory-v2/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/memory/memory-v2/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/memory/memory-v2/.gradle/file-system.probe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/memory/memory-v2/.gradle/vcs-1/gc.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/memory/memory-v2/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/memory/memory-v2/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/memory/memory-v2/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/memory/memory-v2/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/memory/memory-v2/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/memory/memory-v2/settings.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/memory/memory-v2/src/main/java/memory/Memory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/memory/memory-v2/src/main/java/memory/MemoryAutoConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/memory/memory-v2/src/main/java/memory/MemoryController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/memory/memory-v2/src/main/java/memory/MemoryFinder.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/memory/memory-v2/src/main/resources/META-INF/spring/org.springframework.boot.autoconfigure.AutoConfiguration.imports" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/memory/memory-v2/src/test/java/memory/MemoryFinderTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/memory/project-v1/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/memory/project-v1/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/memory/project-v1/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/memory/project-v1/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/memory/project-v1/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/memory/project-v1/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/memory/project-v1/libs/memory-v1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/memory/project-v1/settings.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/memory/project-v1/src/main/java/hello/ProjectV1Application.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/memory/project-v1/src/main/java/hello/config/MemoryConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/memory/project-v1/src/main/java/hello/controller/HelloController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/memory/project-v1/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/memory/project-v1/src/test/java/hello/ProjectV1ApplicationTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/memory/project-v2/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/memory/project-v2/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/memory/project-v2/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/memory/project-v2/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/memory/project-v2/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/memory/project-v2/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/memory/project-v2/libs/memory-v2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/memory/project-v2/settings.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/memory/project-v2/src/main/java/hello/ProjectV2Application.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/memory/project-v2/src/main/java/hello/controller/HelloController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/memory/project-v2/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/memory/project-v2/src/test/java/hello/ProjectV2ApplicationTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/server/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/server/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/server/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/server/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/server/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/server/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/server/settings.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/server/src/main/java/hello/container/AppInit.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/server/src/main/java/hello/container/AppInitV1Servlet.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/server/src/main/java/hello/container/AppInitV2Spring.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/server/src/main/java/hello/container/AppInitV3SpringMvc.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/server/src/main/java/hello/container/MyContainerInitV1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/server/src/main/java/hello/container/MyContainerInitV2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/server/src/main/java/hello/servlet/HelloServlet.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/server/src/main/java/hello/servlet/TestServlet.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/server/src/main/java/hello/spring/HelloConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/server/src/main/java/hello/spring/HelloController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/server/src/main/resources/META-INF/services/jakarta.servlet.ServletContainerInitializer" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/complete/server/src/main/webapp/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/start/autoconfig-start/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/start/autoconfig-start/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/start/autoconfig-start/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/start/autoconfig-start/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/start/autoconfig-start/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/start/autoconfig-start/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/start/autoconfig-start/settings.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/start/autoconfig-start/src/main/java/hello/AutoConfigApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/start/autoconfig-start/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/start/autoconfig-start/src/test/java/hello/AutoConfigApplicationTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/start/boot-start/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/start/boot-start/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/start/boot-start/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/start/boot-start/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/start/boot-start/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/start/boot-start/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/start/boot-start/settings.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/start/boot-start/src/main/java/hello/boot/BootApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/start/boot-start/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/start/boot-start/src/test/java/hello/boot/BootApplicationTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/start/do-actuator-start/.gradle/7.6/checksums/checksums.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/start/do-actuator-start/.gradle/7.6/checksums/md5-checksums.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/start/do-actuator-start/.gradle/7.6/checksums/sha1-checksums.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/start/do-actuator-start/.gradle/7.6/dependencies-accessors/dependencies-accessors.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/start/do-actuator-start/.gradle/7.6/dependencies-accessors/gc.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/start/do-actuator-start/.gradle/7.6/executionHistory/executionHistory.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/start/do-actuator-start/.gradle/7.6/executionHistory/executionHistory.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/start/do-actuator-start/.gradle/7.6/fileChanges/last-build.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/start/do-actuator-start/.gradle/7.6/fileHashes/fileHashes.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/start/do-actuator-start/.gradle/7.6/fileHashes/fileHashes.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/start/do-actuator-start/.gradle/7.6/fileHashes/resourceHashesCache.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/start/do-actuator-start/.gradle/7.6/gc.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/start/do-actuator-start/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/start/do-actuator-start/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/start/do-actuator-start/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/start/do-actuator-start/.gradle/file-system.probe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/start/do-actuator-start/.gradle/vcs-1/gc.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/start/do-actuator-start/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/start/do-actuator-start/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/start/do-actuator-start/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/start/do-actuator-start/.idea/gradle.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/start/do-actuator-start/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/start/do-actuator-start/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/start/do-actuator-start/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/start/do-actuator-start/.idea/modules/actuator.main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/start/do-actuator-start/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/start/do-actuator-start/HELP.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/start/do-actuator-start/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/start/do-actuator-start/build/classes/java/main/hello/ActuatorApplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/start/do-actuator-start/build/resources/main/META-INF/build-info.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/start/do-actuator-start/build/resources/main/application.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/start/do-actuator-start/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/start/do-actuator-start/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/start/do-actuator-start/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/start/do-actuator-start/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/start/do-actuator-start/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/start/do-actuator-start/settings.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/start/do-actuator-start/src/main/java/hello/ActuatorApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/start/do-actuator-start/src/main/resources/application.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/start/do-actuator-start/src/test/java/hello/ActuatorApplicationTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/start/do-external-read-start/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/start/do-external-read-start/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/start/do-external-read-start/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/start/do-external-read-start/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/start/do-external-read-start/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/start/do-external-read-start/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/start/do-external-read-start/settings.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/start/do-external-read-start/src/main/java/hello/ExternalReadApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/start/do-external-read-start/src/main/java/hello/config/MyDataSourceConfigV1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/start/do-external-read-start/src/main/java/hello/config/MyDataSourceConfigV2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/start/do-external-read-start/src/main/java/hello/config/MyDataSourceConfigV3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/start/do-external-read-start/src/main/java/hello/config/MyDataSourceEnvConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/start/do-external-read-start/src/main/java/hello/config/MyDataSourceValueConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/start/do-external-read-start/src/main/java/hello/datasource/MyDataSource.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/start/do-external-read-start/src/main/java/hello/datasource/MyDataSourcePropertiesV1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/start/do-external-read-start/src/main/java/hello/datasource/MyDataSourcePropertiesV2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/start/do-external-read-start/src/main/java/hello/datasource/MyDataSourcePropertiesV3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/start/do-external-read-start/src/main/java/hello/pay/LocalPayClient.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/start/do-external-read-start/src/main/java/hello/pay/OrderRunner.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/start/do-external-read-start/src/main/java/hello/pay/OrderService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/start/do-external-read-start/src/main/java/hello/pay/PayClient.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/start/do-external-read-start/src/main/java/hello/pay/PayConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/start/do-external-read-start/src/main/java/hello/pay/ProdPayClient.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/start/do-external-read-start/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/start/do-external-read-start/src/main/resources/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/start/do-external-read-start/src/test/java/hello/ExternalReadApplicationTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/start/do-external/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/start/do-external/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/start/do-external/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/start/do-external/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/start/do-external/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/start/do-external/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/start/do-external/settings.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/start/do-external/src/main/java/hello/CommandLineBean.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/start/do-external/src/main/java/hello/EnvironmentCheck.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/start/do-external/src/main/java/hello/ExternalApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/start/do-external/src/main/java/hello/JavaSystem.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/start/do-external/src/main/resources/application-dev.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/start/do-external/src/main/resources/application-prod.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/start/do-external/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/start/do-external/src/test/java/hello/ExternalApplicationTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/start/do-external/src/test/java/hello/external/CommandLineV1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/start/do-external/src/test/java/hello/external/CommandLineV2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/start/do-external/src/test/java/hello/external/JavaSystemProperties.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/start/do-external/src/test/java/hello/external/OsEnv.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/start/embed-start/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/start/embed-start/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/start/embed-start/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/start/embed-start/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/start/embed-start/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/start/embed-start/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/start/embed-start/settings.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/start/embed-start/src/main/java/hello/servlet/HelloServlet.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/start/embed-start/src/main/java/hello/spring/HelloConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/start/embed-start/src/main/java/hello/spring/HelloController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/start/external-start/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/start/external-start/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/start/external-start/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/start/external-start/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/start/external-start/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/start/external-start/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/start/external-start/settings.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/start/external-start/src/main/java/hello/ExternalApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/start/external-start/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/start/external-start/src/test/java/hello/ExternalApplicationTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/start/lib-start/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/start/lib-start/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/start/lib-start/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/start/lib-start/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/start/lib-start/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/start/lib-start/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/start/lib-start/settings.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/start/lib-start/src/main/java/hello/LibApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/start/lib-start/src/main/java/hello/controller/HelloController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/start/lib-start/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/start/lib-start/src/test/java/hello/nostarter/NoStarterApplicationTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/start/memory/memory-v1-start/.gradle/7.4/checksums/checksums.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/start/memory/memory-v1-start/.gradle/7.4/checksums/md5-checksums.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/start/memory/memory-v1-start/.gradle/7.4/checksums/sha1-checksums.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/start/memory/memory-v1-start/.gradle/7.4/dependencies-accessors/dependencies-accessors.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/start/memory/memory-v1-start/.gradle/7.4/dependencies-accessors/gc.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/start/memory/memory-v1-start/.gradle/7.4/executionHistory/executionHistory.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/start/memory/memory-v1-start/.gradle/7.4/executionHistory/executionHistory.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/start/memory/memory-v1-start/.gradle/7.4/fileChanges/last-build.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/start/memory/memory-v1-start/.gradle/7.4/fileHashes/fileHashes.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/start/memory/memory-v1-start/.gradle/7.4/fileHashes/fileHashes.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/start/memory/memory-v1-start/.gradle/7.4/fileHashes/resourceHashesCache.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/start/memory/memory-v1-start/.gradle/7.4/gc.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/start/memory/memory-v1-start/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/start/memory/memory-v1-start/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/start/memory/memory-v1-start/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/start/memory/memory-v1-start/.gradle/file-system.probe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/start/memory/memory-v1-start/.gradle/vcs-1/gc.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/start/memory/memory-v1-start/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/start/memory/memory-v1-start/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/start/memory/memory-v1-start/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/start/memory/memory-v1-start/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/start/memory/memory-v1-start/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/start/memory/memory-v1-start/settings.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/start/memory/project-v1-start/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/start/memory/project-v1-start/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/start/memory/project-v1-start/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/start/memory/project-v1-start/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/start/memory/project-v1-start/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/start/memory/project-v1-start/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/start/memory/project-v1-start/settings.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/start/memory/project-v1-start/src/main/java/hello/ProjectV1Application.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/start/memory/project-v1-start/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/start/memory/project-v1-start/src/test/java/hello/ProjectV1ApplicationTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/start/memory/project-v2-start/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/start/memory/project-v2-start/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/start/memory/project-v2-start/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/start/memory/project-v2-start/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/start/memory/project-v2-start/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/start/memory/project-v2-start/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/start/memory/project-v2-start/settings.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/start/memory/project-v2-start/src/main/java/hello/ProjectV2Application.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/start/memory/project-v2-start/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/start/memory/project-v2-start/src/test/java/hello/ProjectV2ApplicationTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/start/server-start/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/start/server-start/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/start/server-start/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/start/server-start/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/start/server-start/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/start/server-start/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_final/class_source/start/server-start/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/Spring_Advanced/proxy/src/test/java/hello/proxy/advisor/AdvisorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring/Spring_Advanced/proxy/src/test/java/hello/proxy/advisor/AdvisorTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -519,25 +44,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;extract.method.default.visibility&quot;: &quot;private&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/study/Java_Algorithm&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;File.Encoding&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "extract.method.default.visibility": "private",
+    "last_opened_file_path": "D:/study/Spring/Spring_Advanced/proxy",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "File.Encoding",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\study\Java_Algorithm\src\자바공부\모던자바" />
@@ -548,27 +73,14 @@
       <recent name="D:\study\Java_Algorithm\src\자바공부\유튜브_라이브" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="알고리즘.문제코드.Eleven" />
       <recent name="알고리즘.문제코드.SSAFY.수업_221006" />
       <recent name="알고리즘.문제코드.이론.LIS" />
       <recent name="알고리즘.문제코드.SSAFY.수업_221005" />
       <recent name="알고리즘.문제코드.백준" />
-      <recent name="알고리즘.문제코드.백준.싸피_스터디.연습3" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.stack">
-    <configuration name="Problem_4014" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="알고리즘.문제코드.SSAFY.수업_221011.Problem_4014" />
-      <module name="Java_Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="알고리즘.문제코드.SSAFY.수업_221011.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.stack2">
     <configuration name="Problem_G4_15961" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="알고리즘.문제코드.SSAFY.수업_221011.Problem_G4_15961" />
       <module name="Java_Algorithm" />
@@ -582,12 +94,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="findString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="알고리즘.문제코드.SSAFY.수업_221011.findString" />
+    <configuration name="stack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="알고리즘.문제코드.Eleven.stack" />
       <module name="Java_Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="알고리즘.문제코드.SSAFY.수업_221011.*" />
+          <option name="PATTERN" value="알고리즘.문제코드.Eleven.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -595,8 +107,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="stack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="알고리즘.문제코드.Eleven.stack" />
+    <configuration name="stack2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="알고리즘.문제코드.Eleven.stack2" />
+      <module name="Java_Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="알고리즘.문제코드.Eleven.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="stack3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="알고리즘.문제코드.Eleven.stack3" />
       <module name="Java_Algorithm" />
       <extension name="coverage">
         <pattern>
@@ -623,11 +148,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.stack2" />
         <item itemvalue="Application.stack" />
+        <item itemvalue="Application.stack3" />
         <item itemvalue="Application.Problem_G4_15961" />
         <item itemvalue="Application.test" />
-        <item itemvalue="Application.findString" />
-        <item itemvalue="Application.Problem_4014" />
       </list>
     </recent_temporary>
   </component>
@@ -718,7 +243,7 @@
       <workItem from="1665647232761" duration="2897000" />
       <workItem from="1687239025888" duration="1791000" />
       <workItem from="1687250472503" duration="5090000" />
-      <workItem from="1687336699803" duration="7444000" />
+      <workItem from="1687336699803" duration="12619000" />
     </task>
     <servers />
   </component>

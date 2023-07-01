@@ -1,24 +1,25 @@
 package 알고리즘.문제코드.Eleven;
 
-public class stack2 {
+public class stack3 {
 
+    // 연속된 문자열중 최대값을 제외하고 모두 제거한다.
+    public static void main(String[] args) {
 
-    public static void main(String[] args,  int[] A) {
+        String S = "aabaa";
+        int[] C = {1,1,0,2,2};
+        char[] s = S.toCharArray();
 
-        String S = "NAANAAXNABABYNNBZ";
-        int bCnt = 0;
-        int nCnt = 0;
-        int aCnt = 0;
-
+        int prevIndex = 0;
         int result = 0;
 
-        char[] s = S.toCharArray();
-        for (char c : s) {
-            if(c == 'B') bCnt++;
-            else if(c == 'N') nCnt++;
-            else if(c == 'A') aCnt++;
+        for (int i = 1; i < s.length; i++) {
+            if(s[prevIndex] == s[i]){
+                result += Math.min(C[i], C[prevIndex]);
+                if(C[prevIndex] < C[i]) prevIndex = i;
+            }
+            else prevIndex = i;
         }
 
-        Math.min(bCnt,  Math.min(nCnt/2, aCnt/3));
+        System.out.println(result);
     }
 }
