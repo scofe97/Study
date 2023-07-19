@@ -5,17 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="efe06709-25b7-4f33-8443-6652a96d3766" name="Changes" comment="Changes">
-      <change afterPath="$PROJECT_DIR$/src/알고리즘/문제코드/Eleven/stack2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/알고리즘/문제코드/Eleven/stack3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring/Spring_Advanced/proxy/src/main/java/hello/proxy/config/v3_proxyfactory/ProxyFactoryConfigV1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring/Spring_Advanced/proxy/src/main/java/hello/proxy/config/v3_proxyfactory/ProxyFactoryConfigV2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring/Spring_Advanced/proxy/src/main/java/hello/proxy/config/v3_proxyfactory/advice/LogTraceAdvice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring/Spring_Advanced/proxy/src/test/java/hello/proxy/advisor/MultiAdvisorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/알고리즘/문제코드/이론/Graph/DJK_PRQ.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/알고리즘/문제코드/이론/Graph/Dijkstra.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/알고리즘/문제코드/이론/_12865.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/알고리즘/문제코드/이론/_16654.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/알고리즘/문제코드/이론/_1918.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring/FAST_REDIS/helloworld/src/main/java/com/example/helloworld/HelloController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring/FAST_REDIS/helloworld/src/main/java/com/example/helloworld/LoginController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/알고리즘/문제코드/Eleven/stack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/알고리즘/문제코드/Eleven/stack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../React/react-complete-guide/react-complete__router/react-router-6.4-intro" beforeDir="false" afterPath="$PROJECT_DIR$/../React/react-complete-guide/react-complete__router/react-router-6.4-intro" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_Advanced/proxy/src/main/java/hello/proxy/ProxyApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring/Spring_Advanced/proxy/src/main/java/hello/proxy/ProxyApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring/Spring_Advanced/proxy/src/test/java/hello/proxy/advisor/AdvisorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring/Spring_Advanced/proxy/src/test/java/hello/proxy/advisor/AdvisorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/알고리즘/문제코드/이론/Graph/EX_FLOYD.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +50,8 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "extract.method.default.visibility": "private",
-    "last_opened_file_path": "D:/study/Spring/Spring_Advanced/proxy",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Study/Spring/FAST_REDIS/helloworld",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -80,13 +80,13 @@
       <recent name="알고리즘.문제코드.백준" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.stack2">
-    <configuration name="Problem_G4_15961" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="알고리즘.문제코드.SSAFY.수업_221011.Problem_G4_15961" />
+  <component name="RunManager" selected="Application._16654">
+    <configuration name="Dijkstra" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="알고리즘.문제코드.이론.Graph.Dijkstra" />
       <module name="Java_Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="알고리즘.문제코드.SSAFY.수업_221011.*" />
+          <option name="PATTERN" value="알고리즘.문제코드.이론.Graph.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,12 +94,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="stack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="알고리즘.문제코드.Eleven.stack" />
+    <configuration name="_12865" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="알고리즘.문제코드.이론._12865" />
       <module name="Java_Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="알고리즘.문제코드.Eleven.*" />
+          <option name="PATTERN" value="알고리즘.문제코드.이론.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_16654" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="알고리즘.문제코드.이론._16654" />
+      <module name="Java_Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="알고리즘.문제코드.이론.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_1918" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="알고리즘.문제코드.이론._1918" />
+      <module name="Java_Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="알고리즘.문제코드.이론.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,39 +146,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="stack3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="알고리즘.문제코드.Eleven.stack3" />
-      <module name="Java_Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="알고리즘.문제코드.Eleven.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="알고리즘.문제코드.SSAFY.수업_221011.test" />
-      <module name="Java_Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="알고리즘.문제코드.SSAFY.수업_221011.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application._16654" />
+        <item itemvalue="Application._1918" />
+        <item itemvalue="Application._12865" />
+        <item itemvalue="Application.Dijkstra" />
         <item itemvalue="Application.stack2" />
-        <item itemvalue="Application.stack" />
-        <item itemvalue="Application.stack3" />
-        <item itemvalue="Application.Problem_G4_15961" />
-        <item itemvalue="Application.test" />
       </list>
     </recent_temporary>
   </component>
@@ -244,6 +244,7 @@
       <workItem from="1687239025888" duration="1791000" />
       <workItem from="1687250472503" duration="5090000" />
       <workItem from="1687336699803" duration="12619000" />
+      <workItem from="1689661001482" duration="10843000" />
     </task>
     <servers />
   </component>
