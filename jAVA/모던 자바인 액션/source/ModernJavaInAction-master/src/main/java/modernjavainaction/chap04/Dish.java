@@ -44,7 +44,7 @@ public class Dish {
     return name;
   }
 
-  public static final List<Dish> menu = Arrays.asList(
+  public static final List<Dish> memenu = Arrays.asList(
       new Dish("pork", false, 800, Dish.Type.MEAT),
       new Dish("beef", false, 700, Dish.Type.MEAT),
       new Dish("chicken", false, 400, Dish.Type.MEAT),

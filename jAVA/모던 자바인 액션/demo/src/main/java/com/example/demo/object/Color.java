@@ -1,4 +1,4 @@
-package modernjavainaction.chap03;
+package com.example.demo.object;
 
 public enum Color {
   RED,
